@@ -1,0 +1,196 @@
+10/05/2023 05:00:32 AM #####################################################################################
+10/05/2023 05:00:32 AM DELETING REDUNDANT DATA
+10/05/2023 05:00:32 AM -----------------------------------------------------------------------------------
+10/05/2023 05:00:32 AM Delete redundant data --> lonm180-m120 - lat45-60
+10/05/2023 05:00:33 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:33 AM Delete redundant data --> lonm180-m120 - lat20-30
+10/05/2023 05:00:33 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:33 AM Delete redundant data --> lonm180-m120 - lat30-45
+10/05/2023 05:00:34 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:34 AM Delete redundant data --> lonm180-m120 - lat60-75
+10/05/2023 05:00:34 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:34 AM Delete redundant data --> lonm180-m120 - lat75-90
+10/05/2023 05:00:34 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:34 AM Delete redundant data --> lonm120-m60 - lat45-60
+10/05/2023 05:00:36 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:36 AM Delete redundant data --> lonm120-m60 - lat20-30
+10/05/2023 05:00:36 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:36 AM Delete redundant data --> lonm120-m60 - lat30-45
+10/05/2023 05:00:36 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:36 AM Delete redundant data --> lonm120-m60 - lat60-75
+10/05/2023 05:00:38 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:38 AM Delete redundant data --> lonm120-m60 - lat75-90
+10/05/2023 05:00:38 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:38 AM Delete redundant data --> lonm60-m0 - lat45-60
+10/05/2023 05:00:45 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:45 AM Delete redundant data --> lonm60-m0 - lat20-30
+10/05/2023 05:00:45 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:45 AM Delete redundant data --> lonm60-m0 - lat30-45
+10/05/2023 05:00:45 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:45 AM Delete redundant data --> lonm60-m0 - lat60-75
+10/05/2023 05:00:45 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:45 AM Delete redundant data --> lonm60-m0 - lat75-90
+10/05/2023 05:00:45 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:45 AM Delete redundant data --> lonp0-p60 - lat45-60
+10/05/2023 05:00:57 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:57 AM Delete redundant data --> lonp0-p60 - lat20-30
+10/05/2023 05:00:57 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:57 AM Delete redundant data --> lonp0-p60 - lat30-45
+10/05/2023 05:00:57 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:57 AM Delete redundant data --> lonp0-p60 - lat60-75
+10/05/2023 05:00:57 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:57 AM Delete redundant data --> lonp0-p60 - lat75-90
+10/05/2023 05:00:57 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:57 AM Delete redundant data --> lonp60-p120 - lat45-60
+10/05/2023 05:00:58 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:58 AM Delete redundant data --> lonp60-p120 - lat20-30
+10/05/2023 05:00:58 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:58 AM Delete redundant data --> lonp60-p120 - lat30-45
+10/05/2023 05:00:58 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:58 AM Delete redundant data --> lonp60-p120 - lat60-75
+10/05/2023 05:00:58 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:58 AM Delete redundant data --> lonp60-p120 - lat75-90
+10/05/2023 05:00:58 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:00:58 AM Delete redundant data --> lonp120-p180 - lat45-60
+10/05/2023 05:01:00 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:01:00 AM Delete redundant data --> lonp120-p180 - lat20-30
+10/05/2023 05:01:00 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:01:00 AM Delete redundant data --> lonp120-p180 - lat30-45
+10/05/2023 05:01:00 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:01:00 AM Delete redundant data --> lonp120-p180 - lat60-75
+10/05/2023 05:01:00 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:01:00 AM Delete redundant data --> lonp120-p180 - lat75-90
+10/05/2023 05:01:00 AM New ones saved in DELETE_REDUNDANT_BLOCKS
+10/05/2023 05:01:00 AM Redundant data deleted
+10/05/2023 05:01:00 AM -----------------------------------------------------------------------------------
+10/05/2023 05:01:00 AM #####################################################################################
+10/05/2023 05:01:00 AM CLASSIFY BLOCKS BASED ON Z300 ANOMALY
+10/05/2023 05:01:00 AM -----------------------------------------------------------------------------------
+10/05/2023 05:01:00 AM Classify blocks on z300 anomaly --> lonm180-m120 - lat45-60
+10/05/2023 05:01:10 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:01:10 AM Classify blocks on z300 anomaly --> lonm180-m120 - lat20-30
+10/05/2023 05:01:11 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:01:11 AM Classify blocks on z300 anomaly --> lonm180-m120 - lat30-45
+10/05/2023 05:01:15 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:01:15 AM Classify blocks on z300 anomaly --> lonm180-m120 - lat60-75
+10/05/2023 05:01:15 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:01:15 AM Classify blocks on z300 anomaly --> lonm180-m120 - lat75-90
+10/05/2023 05:01:15 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:01:15 AM Classify blocks on z300 anomaly --> lonm120-m60 - lat45-60
+10/05/2023 05:01:20 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:01:20 AM Classify blocks on z300 anomaly --> lonm120-m60 - lat20-30
+10/05/2023 05:01:20 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:01:20 AM Classify blocks on z300 anomaly --> lonm120-m60 - lat30-45
+10/05/2023 05:01:20 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:01:20 AM Classify blocks on z300 anomaly --> lonm120-m60 - lat60-75
+10/05/2023 05:01:21 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:01:21 AM Classify blocks on z300 anomaly --> lonm120-m60 - lat75-90
+10/05/2023 05:01:21 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:01:21 AM Classify blocks on z300 anomaly --> lonm60-m0 - lat45-60
+10/05/2023 05:01:59 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:01:59 AM Classify blocks on z300 anomaly --> lonm60-m0 - lat20-30
+10/05/2023 05:02:00 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:00 AM Classify blocks on z300 anomaly --> lonm60-m0 - lat30-45
+10/05/2023 05:02:04 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:04 AM Classify blocks on z300 anomaly --> lonm60-m0 - lat60-75
+10/05/2023 05:02:05 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:05 AM Classify blocks on z300 anomaly --> lonm60-m0 - lat75-90
+10/05/2023 05:02:05 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:05 AM Classify blocks on z300 anomaly --> lonp0-p60 - lat45-60
+10/05/2023 05:02:25 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:25 AM Classify blocks on z300 anomaly --> lonp0-p60 - lat20-30
+10/05/2023 05:02:25 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:25 AM Classify blocks on z300 anomaly --> lonp0-p60 - lat30-45
+10/05/2023 05:02:25 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:25 AM Classify blocks on z300 anomaly --> lonp0-p60 - lat60-75
+10/05/2023 05:02:26 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:26 AM Classify blocks on z300 anomaly --> lonp0-p60 - lat75-90
+10/05/2023 05:02:26 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:26 AM Classify blocks on z300 anomaly --> lonp60-p120 - lat45-60
+10/05/2023 05:02:31 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:31 AM Classify blocks on z300 anomaly --> lonp60-p120 - lat20-30
+10/05/2023 05:02:31 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:31 AM Classify blocks on z300 anomaly --> lonp60-p120 - lat30-45
+10/05/2023 05:02:31 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:31 AM Classify blocks on z300 anomaly --> lonp60-p120 - lat60-75
+10/05/2023 05:02:32 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:32 AM Classify blocks on z300 anomaly --> lonp60-p120 - lat75-90
+10/05/2023 05:02:32 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:32 AM Classify blocks on z300 anomaly --> lonp120-p180 - lat45-60
+10/05/2023 05:02:55 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:55 AM Classify blocks on z300 anomaly --> lonp120-p180 - lat20-30
+10/05/2023 05:02:55 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:55 AM Classify blocks on z300 anomaly --> lonp120-p180 - lat30-45
+10/05/2023 05:02:56 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:56 AM Classify blocks on z300 anomaly --> lonp120-p180 - lat60-75
+10/05/2023 05:02:57 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:57 AM Classify blocks on z300 anomaly --> lonp120-p180 - lat75-90
+10/05/2023 05:02:57 AM New ones saved in BlOCK_TYPES_DIVISION_Z300_based
+10/05/2023 05:02:57 AM Blocks classified based on Z300 anomaly
+10/05/2023 05:02:57 AM -----------------------------------------------------------------------------------
+10/05/2023 05:02:57 AM #####################################################################################
+10/05/2023 05:02:57 AM CLASSIFY BLOCKS BASEN ON LWA ANOMALY
+10/05/2023 05:02:57 AM -----------------------------------------------------------------------------------
+10/05/2023 05:02:57 AM Classify blocks on LWA anomaly --> lonm180-m120 - lat45-60
+10/05/2023 05:03:06 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:06 AM Classify blocks on LWA anomaly --> lonm180-m120 - lat20-30
+10/05/2023 05:03:07 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:07 AM Classify blocks on LWA anomaly --> lonm180-m120 - lat30-45
+10/05/2023 05:03:11 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:11 AM Classify blocks on LWA anomaly --> lonm180-m120 - lat60-75
+10/05/2023 05:03:11 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:11 AM Classify blocks on LWA anomaly --> lonm180-m120 - lat75-90
+10/05/2023 05:03:11 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:11 AM Classify blocks on LWA anomaly --> lonm120-m60 - lat45-60
+10/05/2023 05:03:15 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:15 AM Classify blocks on LWA anomaly --> lonm120-m60 - lat20-30
+10/05/2023 05:03:15 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:15 AM Classify blocks on LWA anomaly --> lonm120-m60 - lat30-45
+10/05/2023 05:03:16 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:16 AM Classify blocks on LWA anomaly --> lonm120-m60 - lat60-75
+10/05/2023 05:03:17 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:17 AM Classify blocks on LWA anomaly --> lonm120-m60 - lat75-90
+10/05/2023 05:03:17 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:17 AM Classify blocks on LWA anomaly --> lonm60-m0 - lat45-60
+10/05/2023 05:03:52 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:52 AM Classify blocks on LWA anomaly --> lonm60-m0 - lat20-30
+10/05/2023 05:03:53 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:53 AM Classify blocks on LWA anomaly --> lonm60-m0 - lat30-45
+10/05/2023 05:03:57 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:57 AM Classify blocks on LWA anomaly --> lonm60-m0 - lat60-75
+10/05/2023 05:03:58 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:58 AM Classify blocks on LWA anomaly --> lonm60-m0 - lat75-90
+10/05/2023 05:03:58 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:03:58 AM Classify blocks on LWA anomaly --> lonp0-p60 - lat45-60
+10/05/2023 05:04:16 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:16 AM Classify blocks on LWA anomaly --> lonp0-p60 - lat20-30
+10/05/2023 05:04:16 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:16 AM Classify blocks on LWA anomaly --> lonp0-p60 - lat30-45
+10/05/2023 05:04:17 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:17 AM Classify blocks on LWA anomaly --> lonp0-p60 - lat60-75
+10/05/2023 05:04:17 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:17 AM Classify blocks on LWA anomaly --> lonp0-p60 - lat75-90
+10/05/2023 05:04:17 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:17 AM Classify blocks on LWA anomaly --> lonp60-p120 - lat45-60
+10/05/2023 05:04:23 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:23 AM Classify blocks on LWA anomaly --> lonp60-p120 - lat20-30
+10/05/2023 05:04:23 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:23 AM Classify blocks on LWA anomaly --> lonp60-p120 - lat30-45
+10/05/2023 05:04:23 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:23 AM Classify blocks on LWA anomaly --> lonp60-p120 - lat60-75
+10/05/2023 05:04:24 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:24 AM Classify blocks on LWA anomaly --> lonp60-p120 - lat75-90
+10/05/2023 05:04:24 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:24 AM Classify blocks on LWA anomaly --> lonp120-p180 - lat45-60
+10/05/2023 05:04:45 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:45 AM Classify blocks on LWA anomaly --> lonp120-p180 - lat20-30
+10/05/2023 05:04:45 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:45 AM Classify blocks on LWA anomaly --> lonp120-p180 - lat30-45
+10/05/2023 05:04:45 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:45 AM Classify blocks on LWA anomaly --> lonp120-p180 - lat60-75
+10/05/2023 05:04:47 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:47 AM Classify blocks on LWA anomaly --> lonp120-p180 - lat75-90
+10/05/2023 05:04:47 AM New ones saved in BlOCK_TYPES_DIVISION_LWA_based
+10/05/2023 05:04:47 AM Blocks classified based on LWA anomaly
+10/05/2023 05:04:47 AM -----------------------------------------------------------------------------------
+10/05/2023 05:04:47 AM Great! Finished succesfully! You had a good day on 05.10.2023!!

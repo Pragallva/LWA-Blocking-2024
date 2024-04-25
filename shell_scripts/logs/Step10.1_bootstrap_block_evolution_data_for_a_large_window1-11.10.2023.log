@@ -1,0 +1,16 @@
+10/11/2023 05:12:49 AM Bootstrapping -- 
+/data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm180-m120/lat45-60/BOOTSTRAPPING_BLOCKS/blocking_details_day_wise.hkl
+10/11/2023 05:12:51 AM /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm180-m120/lat45-60/BOOTSTRAPPING_BLOCKS/block_evolution_29_days/days4/synoptic_WA_fluxes/ 
+ does not exist
+10/11/2023 05:12:51 AM Beginning to load all the files .....
+10/11/2023 05:13:45 AM ...Loaded all the files
+10/11/2023 05:13:45 AM ------ Lon band --> lonm180-m120 and Lat band --> lat45-60 --- 
+10/11/2023 05:13:45 AM ----------------Day = 4-----------------------
+10/11/2023 05:53:34 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm180-m120/lat45-60/BOOTSTRAPPING_BLOCKS/block_evolution_29_days/days4//synoptic_WA_budget/
+10/11/2023 05:53:34 AM ===== Time taken for this one field ======  2388.86
+10/11/2023 06:31:42 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm180-m120/lat45-60/BOOTSTRAPPING_BLOCKS/block_evolution_29_days/days4//synoptic_WA_budget/
+10/11/2023 06:31:42 AM ===== Time taken for this one field ======  2288.25
+10/11/2023 07:08:54 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm180-m120/lat45-60/BOOTSTRAPPING_BLOCKS/block_evolution_29_days/days4//synoptic_WA_budget/
+10/11/2023 07:08:54 AM ===== Time taken for this one field ======  2231.96
+10/11/2023 07:45:56 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm180-m120/lat45-60/BOOTSTRAPPING_BLOCKS/block_evolution_29_days/days4//synoptic_WA_budget/
+10/11/2023 07:45:56 AM ===== Time taken for this one field ======  2221.88

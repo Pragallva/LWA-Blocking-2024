@@ -1,0 +1,35 @@
+10/22/2023 03:08:26 PM Beginning to load all the files .....
+10/22/2023 03:08:26 PM Bootstrapping -- 
+/data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonp120-p180/lat45-60/BOOTSTRAPPING_BLOCKS/blocking_details_day_wise.hkl
+10/22/2023 03:08:26 PM ==== Brace-up for some stat calculation in  lonp120-p180 - lat45-60 ====
+10/22/2023 03:08:28 PM Beginning to load all the files .....
+10/22/2023 03:08:31 PM ...Loaded all the files
+10/22/2023 03:08:31 PM ------ Lon band --> lonp120-p180 and Lat band --> lat45-60 --- 
+10/22/2023 03:08:31 PM ----------------Day = 4-----------------------
+10/22/2023 03:08:31 PM   *******  
+10/22/2023 03:08:31 PM *   o  o  *
+10/22/2023 03:08:31 PM *    v    *
+10/22/2023 03:08:31 PM  *  ~~~  * 
+10/22/2023 03:08:31 PM   *******  
+10/22/2023 03:08:31 PM Wait now. Need to calculate BLOCK_window_list_Z300_full data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonp120-p180/lat45-60/BOOTSTRAPPING_BLOCKS/block_evolution_29_days/days4//u_v_pv_phi/
+10/22/2023 03:08:31 PM block1
+10/22/2023 03:08:35 PM block2
+10/22/2023 03:08:38 PM block3
+10/22/2023 03:08:42 PM block4
+10/22/2023 03:08:46 PM block5
+10/22/2023 03:08:49 PM block6
+10/22/2023 03:08:53 PM block7
+10/22/2023 03:08:56 PM block8
+10/22/2023 03:09:00 PM block9
+10/22/2023 03:09:03 PM block10
+10/22/2023 03:09:07 PM block11
+10/22/2023 03:09:10 PM block12
+10/22/2023 03:09:14 PM block13
+10/22/2023 03:09:17 PM block14
+10/22/2023 03:09:21 PM block15
+10/22/2023 03:09:24 PM block16
+10/22/2023 03:09:28 PM block17
+10/22/2023 03:09:31 PM block18
+10/22/2023 03:09:35 PM block19
+10/22/2023 03:09:39 PM block20
+10/22/2023 03:09:42 PM block21

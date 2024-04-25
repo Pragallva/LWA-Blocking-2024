@@ -1,0 +1,20 @@
+10/01/2023 12:16:18 PM /data/pragallva/2023_repeat_ERA5/post_processing/parameters/F2a_N.hdf5 loaded
+10/01/2023 12:16:18 PM Filter module called
+10/01/2023 12:16:40 PM Interpolation done
+10/01/2023 12:16:40 PM Removed the seasonal cycle
+10/01/2023 12:17:29 PM Detrended the data
+10/01/2023 12:17:29 PM Reshaped data
+10/01/2023 12:17:31 PM Tapered data
+10/01/2023 12:17:32 PM Padded data with zeros
+10/01/2023 12:18:03 PM Filtered data temporally, now doing back transform
+10/01/2023 12:18:29 PM Awesome! Returning filtered data
+10/01/2023 12:18:29 PM  
+10/01/2023 12:18:29 PM Filtering time = 0 hrs, 1 min, 48.58 sec
+10/01/2023 12:18:29 PM  
+10/01/2023 12:18:30 PM Filtering done
+10/01/2023 12:18:30 PM Did not require reshaping
+10/01/2023 12:18:42 PM Smoothing by 15 grid points along longitude
+10/01/2023 12:18:42 PM Time taken --> 144.032 seconds
+10/01/2023 12:18:43 PM Filtering done
+10/01/2023 12:18:44 PM SAVED --> 
+/data/pragallva/2023_repeat_ERA5/post_processing/filtered_parameters/band_pass_time_filter_004-infy_days//F2a_N.hdf5

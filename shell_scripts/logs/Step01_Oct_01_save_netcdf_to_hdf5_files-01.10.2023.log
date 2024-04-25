@@ -1,0 +1,241 @@
+10/01/2023 10:03:51 AM LWAb_N extracting now
+10/01/2023 10:03:51 AM Already exists hdf5 -> /data/pragallva/2023_repeat_ERA5//post_processing/parameters/A_N.hdf5
+10/01/2023 10:03:51 AM Time taken for this 0.000
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ua1_N extracting now
+10/01/2023 10:03:51 AM Already exists hdf5 -> /data/pragallva/2023_repeat_ERA5//post_processing/parameters/F1_N.hdf5
+10/01/2023 10:03:51 AM Time taken for this 0.000
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ua2_N extracting now
+10/01/2023 10:03:51 AM Already exists hdf5 -> /data/pragallva/2023_repeat_ERA5//post_processing/parameters/F2_N.hdf5
+10/01/2023 10:03:51 AM Time taken for this 0.000
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM Ub_N extracting now
+10/01/2023 10:03:51 AM Already exists hdf5 -> /data/pragallva/2023_repeat_ERA5//post_processing/parameters/U_N.hdf5
+10/01/2023 10:03:51 AM Time taken for this 0.000
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM Urefb_N extracting now
+10/01/2023 10:03:51 AM Already exists hdf5 -> /data/pragallva/2023_repeat_ERA5//post_processing/parameters/Uref_N.hdf5
+10/01/2023 10:03:51 AM Time taken for this 0.000
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ep1_N extracting now
+10/01/2023 10:03:51 AM Already exists hdf5 -> /data/pragallva/2023_repeat_ERA5//post_processing/parameters/F3_N.hdf5
+10/01/2023 10:03:51 AM Time taken for this 0.000
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ep2_N extracting now
+10/01/2023 10:03:51 AM Already exists hdf5 -> /data/pragallva/2023_repeat_ERA5//post_processing/parameters/EPy1_N.hdf5
+10/01/2023 10:03:51 AM Time taken for this 0.000
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ep3_N extracting now
+10/01/2023 10:03:51 AM Already exists hdf5 -> /data/pragallva/2023_repeat_ERA5//post_processing/parameters/EPy2_N.hdf5
+10/01/2023 10:03:51 AM Time taken for this 0.000
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ep4_N extracting now
+10/01/2023 10:03:51 AM Already exists hdf5 -> /data/pragallva/2023_repeat_ERA5//post_processing/parameters/dEPz_dz_N.hdf5
+10/01/2023 10:03:51 AM Time taken for this 0.000
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM                                             
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ############################################
+10/01/2023 10:03:51 AM ep2a_N extracting now
+10/01/2023 10:03:51 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1979_ep2a_N.nc now
+10/01/2023 10:03:52 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1980_ep2a_N.nc now
+10/01/2023 10:03:53 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1981_ep2a_N.nc now
+10/01/2023 10:03:54 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1982_ep2a_N.nc now
+10/01/2023 10:03:55 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1983_ep2a_N.nc now
+10/01/2023 10:03:56 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1984_ep2a_N.nc now
+10/01/2023 10:03:58 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1985_ep2a_N.nc now
+10/01/2023 10:03:59 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1986_ep2a_N.nc now
+10/01/2023 10:04:00 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1987_ep2a_N.nc now
+10/01/2023 10:04:01 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1988_ep2a_N.nc now
+10/01/2023 10:04:02 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1989_ep2a_N.nc now
+10/01/2023 10:04:03 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1990_ep2a_N.nc now
+10/01/2023 10:04:04 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1991_ep2a_N.nc now
+10/01/2023 10:04:05 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1992_ep2a_N.nc now
+10/01/2023 10:04:06 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1993_ep2a_N.nc now
+10/01/2023 10:04:07 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1994_ep2a_N.nc now
+10/01/2023 10:04:09 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1995_ep2a_N.nc now
+10/01/2023 10:04:10 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1996_ep2a_N.nc now
+10/01/2023 10:04:11 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1997_ep2a_N.nc now
+10/01/2023 10:04:12 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1998_ep2a_N.nc now
+10/01/2023 10:04:13 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1999_ep2a_N.nc now
+10/01/2023 10:04:14 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2000_ep2a_N.nc now
+10/01/2023 10:04:15 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2001_ep2a_N.nc now
+10/01/2023 10:04:16 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2002_ep2a_N.nc now
+10/01/2023 10:04:17 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2003_ep2a_N.nc now
+10/01/2023 10:04:18 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2004_ep2a_N.nc now
+10/01/2023 10:04:20 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2005_ep2a_N.nc now
+10/01/2023 10:04:21 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2006_ep2a_N.nc now
+10/01/2023 10:04:22 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2007_ep2a_N.nc now
+10/01/2023 10:04:23 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2008_ep2a_N.nc now
+10/01/2023 10:04:24 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2009_ep2a_N.nc now
+10/01/2023 10:04:25 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2010_ep2a_N.nc now
+10/01/2023 10:04:26 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2011_ep2a_N.nc now
+10/01/2023 10:04:27 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2012_ep2a_N.nc now
+10/01/2023 10:04:29 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2013_ep2a_N.nc now
+10/01/2023 10:04:30 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2014_ep2a_N.nc now
+10/01/2023 10:04:31 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2015_ep2a_N.nc now
+10/01/2023 10:04:32 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2016_ep2a_N.nc now
+10/01/2023 10:04:33 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2017_ep2a_N.nc now
+10/01/2023 10:04:34 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2018_ep2a_N.nc now
+10/01/2023 10:04:35 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2019_ep2a_N.nc now
+10/01/2023 10:04:36 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2020_ep2a_N.nc now
+10/01/2023 10:04:38 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2021_ep2a_N.nc now
+10/01/2023 10:04:39 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2022_ep2_N.nc now
+10/01/2023 10:04:49 AM Saved into hdf5 -> /data/pragallva/2023_repeat_ERA5//post_processing/parameters/EPy1a_N.hdf5
+10/01/2023 10:04:49 AM Time taken for this 58.048
+10/01/2023 10:04:49 AM ############################################
+10/01/2023 10:04:49 AM ############################################
+10/01/2023 10:04:49 AM                                             
+10/01/2023 10:04:49 AM                                             
+10/01/2023 10:04:49 AM ############################################
+10/01/2023 10:04:49 AM ############################################
+10/01/2023 10:04:49 AM ep3a_N extracting now
+10/01/2023 10:04:49 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1979_ep3a_N.nc now
+10/01/2023 10:04:53 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1980_ep3a_N.nc now
+10/01/2023 10:04:56 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1981_ep3a_N.nc now
+10/01/2023 10:04:59 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1982_ep3a_N.nc now
+10/01/2023 10:05:01 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1983_ep3a_N.nc now
+10/01/2023 10:05:04 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1984_ep3a_N.nc now
+10/01/2023 10:05:07 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1985_ep3a_N.nc now
+10/01/2023 10:05:10 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1986_ep3a_N.nc now
+10/01/2023 10:05:12 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1987_ep3a_N.nc now
+10/01/2023 10:05:15 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1988_ep3a_N.nc now
+10/01/2023 10:05:18 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1989_ep3a_N.nc now
+10/01/2023 10:05:21 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1990_ep3a_N.nc now
+10/01/2023 10:05:23 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1991_ep3a_N.nc now
+10/01/2023 10:05:26 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1992_ep3a_N.nc now
+10/01/2023 10:05:29 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1993_ep3a_N.nc now
+10/01/2023 10:05:32 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1994_ep3a_N.nc now
+10/01/2023 10:05:34 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1995_ep3a_N.nc now
+10/01/2023 10:05:37 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1996_ep3a_N.nc now
+10/01/2023 10:05:40 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1997_ep3a_N.nc now
+10/01/2023 10:05:43 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1998_ep3a_N.nc now
+10/01/2023 10:05:45 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1999_ep3a_N.nc now
+10/01/2023 10:05:48 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2000_ep3a_N.nc now
+10/01/2023 10:05:51 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2001_ep3a_N.nc now
+10/01/2023 10:05:54 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2002_ep3a_N.nc now
+10/01/2023 10:05:56 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2003_ep3a_N.nc now
+10/01/2023 10:05:59 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2004_ep3a_N.nc now
+10/01/2023 10:06:02 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2005_ep3a_N.nc now
+10/01/2023 10:06:05 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2006_ep3a_N.nc now
+10/01/2023 10:06:07 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2007_ep3a_N.nc now
+10/01/2023 10:06:10 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2008_ep3a_N.nc now
+10/01/2023 10:06:13 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2009_ep3a_N.nc now
+10/01/2023 10:06:15 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2010_ep3a_N.nc now
+10/01/2023 10:06:18 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2011_ep3a_N.nc now
+10/01/2023 10:06:21 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2012_ep3a_N.nc now
+10/01/2023 10:06:24 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2013_ep3a_N.nc now
+10/01/2023 10:06:26 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2014_ep3a_N.nc now
+10/01/2023 10:06:29 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2015_ep3a_N.nc now
+10/01/2023 10:06:32 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2016_ep3a_N.nc now
+10/01/2023 10:06:35 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2017_ep3a_N.nc now
+10/01/2023 10:06:38 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2018_ep3a_N.nc now
+10/01/2023 10:06:41 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2019_ep3a_N.nc now
+10/01/2023 10:06:43 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2020_ep3a_N.nc now
+10/01/2023 10:06:46 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2021_ep3a_N.nc now
+10/01/2023 10:06:49 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2022_ep3_N.nc now
+10/01/2023 10:06:59 AM Saved into hdf5 -> /data/pragallva/2023_repeat_ERA5//post_processing/parameters/EPy2a_N.hdf5
+10/01/2023 10:06:59 AM Time taken for this 130.561
+10/01/2023 10:06:59 AM ############################################
+10/01/2023 10:06:59 AM ############################################
+10/01/2023 10:06:59 AM                                             
+10/01/2023 10:06:59 AM                                             
+10/01/2023 10:06:59 AM ############################################
+10/01/2023 10:06:59 AM ############################################
+10/01/2023 10:06:59 AM ua2a_N extracting now
+10/01/2023 10:06:59 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1979_ua2a_N.nc now
+10/01/2023 10:07:02 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1980_ua2a_N.nc now
+10/01/2023 10:07:04 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1981_ua2a_N.nc now
+10/01/2023 10:07:07 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1982_ua2a_N.nc now
+10/01/2023 10:07:10 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1983_ua2a_N.nc now
+10/01/2023 10:07:12 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1984_ua2a_N.nc now
+10/01/2023 10:07:15 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1985_ua2a_N.nc now
+10/01/2023 10:07:18 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1986_ua2a_N.nc now
+10/01/2023 10:07:21 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1987_ua2a_N.nc now
+10/01/2023 10:07:23 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1988_ua2a_N.nc now
+10/01/2023 10:07:26 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1989_ua2a_N.nc now
+10/01/2023 10:07:29 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1990_ua2a_N.nc now
+10/01/2023 10:07:32 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1991_ua2a_N.nc now
+10/01/2023 10:07:34 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1992_ua2a_N.nc now
+10/01/2023 10:07:37 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1993_ua2a_N.nc now
+10/01/2023 10:07:40 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1994_ua2a_N.nc now
+10/01/2023 10:07:43 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1995_ua2a_N.nc now
+10/01/2023 10:07:45 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1996_ua2a_N.nc now
+10/01/2023 10:07:48 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1997_ua2a_N.nc now
+10/01/2023 10:07:51 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1998_ua2a_N.nc now
+10/01/2023 10:07:53 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/1999_ua2a_N.nc now
+10/01/2023 10:07:56 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2000_ua2a_N.nc now
+10/01/2023 10:07:59 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2001_ua2a_N.nc now
+10/01/2023 10:08:02 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2002_ua2a_N.nc now
+10/01/2023 10:08:04 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2003_ua2a_N.nc now
+10/01/2023 10:08:07 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2004_ua2a_N.nc now
+10/01/2023 10:08:10 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2005_ua2a_N.nc now
+10/01/2023 10:08:12 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2006_ua2a_N.nc now
+10/01/2023 10:08:15 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2007_ua2a_N.nc now
+10/01/2023 10:08:18 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2008_ua2a_N.nc now
+10/01/2023 10:08:21 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2009_ua2a_N.nc now
+10/01/2023 10:08:23 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2010_ua2a_N.nc now
+10/01/2023 10:08:26 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2011_ua2a_N.nc now
+10/01/2023 10:08:29 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2012_ua2a_N.nc now
+10/01/2023 10:08:32 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2013_ua2a_N.nc now
+10/01/2023 10:08:35 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2014_ua2a_N.nc now
+10/01/2023 10:08:37 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2015_ua2a_N.nc now
+10/01/2023 10:08:40 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2016_ua2a_N.nc now
+10/01/2023 10:08:43 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2017_ua2a_N.nc now
+10/01/2023 10:08:46 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2018_ua2a_N.nc now
+10/01/2023 10:08:48 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2019_ua2a_N.nc now
+10/01/2023 10:08:51 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2020_ua2a_N.nc now
+10/01/2023 10:08:54 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2021_ua2a_N.nc now
+10/01/2023 10:08:56 AM looking into /mnt/winds/data2/nnn/ERA5/BARO_N/2022_ua2_N.nc now
+10/01/2023 10:09:08 AM Saved into hdf5 -> /data/pragallva/2023_repeat_ERA5//post_processing/parameters/F2a_N.hdf5
+10/01/2023 10:09:08 AM Time taken for this 128.888
+10/01/2023 10:09:08 AM ############################################
+10/01/2023 10:09:08 AM ############################################
+10/01/2023 10:09:08 AM                                             
+10/01/2023 10:09:08 AM                                             
+10/01/2023 10:09:08 AM ############################################
+10/01/2023 10:09:08 AM ############################################
+10/01/2023 10:09:08 AM Great! Finished succesfully! You had a good day on 01.10.2023!!

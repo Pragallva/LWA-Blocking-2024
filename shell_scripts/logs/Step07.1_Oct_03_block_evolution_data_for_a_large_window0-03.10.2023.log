@@ -1,0 +1,872 @@
+10/03/2023 10:56:44 PM Beginning to load all the files .....
+10/03/2023 10:58:25 PM ...Loaded all the files
+10/03/2023 10:58:26 PM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/03/2023 10:58:26 PM ----------------Day = 4-----------------------
+10/03/2023 11:02:12 PM Succesfully calculated and saved BLOCK_window_list_A_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral_difference/
+10/03/2023 11:02:12 PM ===== Time taken for this one field ======  226.20
+10/03/2023 11:06:33 PM Succesfully calculated and saved BLOCK_window_list_Fx_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral_difference/
+10/03/2023 11:06:33 PM ===== Time taken for this one field ======  261.27
+10/03/2023 11:11:03 PM Succesfully calculated and saved BLOCK_window_list_F1x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral_difference/
+10/03/2023 11:11:03 PM ===== Time taken for this one field ======  269.85
+10/03/2023 11:15:31 PM Succesfully calculated and saved BLOCK_window_list_F2x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral_difference/
+10/03/2023 11:15:31 PM ===== Time taken for this one field ======  267.87
+10/03/2023 11:20:11 PM Succesfully calculated and saved BLOCK_window_list_F3x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral_difference/
+10/03/2023 11:20:11 PM ===== Time taken for this one field ======  279.84
+10/03/2023 11:24:59 PM Succesfully calculated and saved BLOCK_window_list_EPy_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral_difference/
+10/03/2023 11:24:59 PM ===== Time taken for this one field ======  288.28
+10/03/2023 11:29:28 PM Succesfully calculated and saved BLOCK_window_list_EPz_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral_difference/
+10/03/2023 11:29:28 PM ===== Time taken for this one field ======  268.77
+10/03/2023 11:33:51 PM Succesfully calculated and saved BLOCK_window_list_residual_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral_difference/
+10/03/2023 11:33:51 PM ===== Time taken for this one field ======  263.32
+10/03/2023 11:33:53 PM Succesfully calculated and saved BLOCK_window_list_A_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral/
+10/03/2023 11:33:53 PM ===== Time taken for this one field ======  1.54
+10/03/2023 11:33:54 PM Succesfully calculated and saved BLOCK_window_list_Fx_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral/
+10/03/2023 11:33:54 PM ===== Time taken for this one field ======  1.66
+10/03/2023 11:33:56 PM Succesfully calculated and saved BLOCK_window_list_F1x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral/
+10/03/2023 11:33:56 PM ===== Time taken for this one field ======  1.64
+10/03/2023 11:33:57 PM Succesfully calculated and saved BLOCK_window_list_F2x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral/
+10/03/2023 11:33:57 PM ===== Time taken for this one field ======  1.56
+10/03/2023 11:33:59 PM Succesfully calculated and saved BLOCK_window_list_F3x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral/
+10/03/2023 11:33:59 PM ===== Time taken for this one field ======  1.54
+10/03/2023 11:34:01 PM Succesfully calculated and saved BLOCK_window_list_EPy_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral/
+10/03/2023 11:34:01 PM ===== Time taken for this one field ======  1.50
+10/03/2023 11:34:02 PM Succesfully calculated and saved BLOCK_window_list_EPz_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral/
+10/03/2023 11:34:02 PM ===== Time taken for this one field ======  1.51
+10/03/2023 11:34:03 PM Succesfully calculated and saved BLOCK_window_list_residual_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_integral/
+10/03/2023 11:34:03 PM ===== Time taken for this one field ======  1.43
+10/03/2023 11:38:55 PM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_budget/
+10/03/2023 11:38:55 PM ===== Time taken for this one field ======  291.17
+10/03/2023 11:43:29 PM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_budget/
+10/03/2023 11:43:29 PM ===== Time taken for this one field ======  273.90
+10/03/2023 11:47:49 PM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_budget/
+10/03/2023 11:47:49 PM ===== Time taken for this one field ======  260.70
+10/03/2023 11:51:50 PM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_budget/
+10/03/2023 11:51:50 PM ===== Time taken for this one field ======  241.13
+10/03/2023 11:55:51 PM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_budget/
+10/03/2023 11:55:51 PM ===== Time taken for this one field ======  240.44
+10/04/2023 12:00:07 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_budget/
+10/04/2023 12:00:07 AM ===== Time taken for this one field ======  256.06
+10/04/2023 12:04:29 AM Succesfully calculated and saved BLOCK_window_list_dAdt_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_budget/
+10/04/2023 12:04:29 AM ===== Time taken for this one field ======  261.90
+10/04/2023 12:08:58 AM Succesfully calculated and saved BLOCK_window_list_A_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_fluxes/
+10/04/2023 12:08:58 AM ===== Time taken for this one field ======  269.47
+10/04/2023 12:13:37 AM Succesfully calculated and saved BLOCK_window_list_F_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_fluxes/
+10/04/2023 12:13:37 AM ===== Time taken for this one field ======  275.48
+10/04/2023 12:18:04 AM Succesfully calculated and saved BLOCK_window_list_F1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_fluxes/
+10/04/2023 12:18:04 AM ===== Time taken for this one field ======  266.56
+10/04/2023 12:22:33 AM Succesfully calculated and saved BLOCK_window_list_F2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_fluxes/
+10/04/2023 12:22:33 AM ===== Time taken for this one field ======  269.08
+10/04/2023 12:27:09 AM Succesfully calculated and saved BLOCK_window_list_F3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_fluxes/
+10/04/2023 12:27:09 AM ===== Time taken for this one field ======  275.78
+10/04/2023 12:31:27 AM Succesfully calculated and saved BLOCK_window_list_F_EPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_fluxes/
+10/04/2023 12:31:27 AM ===== Time taken for this one field ======  257.73
+10/04/2023 12:35:31 AM Succesfully calculated and saved BLOCK_window_list_F_EPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_fluxes/
+10/04/2023 12:35:31 AM ===== Time taken for this one field ======  244.56
+10/04/2023 12:39:49 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_variance_budget/
+10/04/2023 12:39:49 AM ===== Time taken for this one field ======  251.51
+10/04/2023 12:44:27 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_variance_budget/
+10/04/2023 12:44:27 AM ===== Time taken for this one field ======  274.50
+10/04/2023 12:48:32 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_variance_budget/
+10/04/2023 12:48:32 AM ===== Time taken for this one field ======  235.60
+10/04/2023 12:52:32 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_variance_budget/
+10/04/2023 12:52:32 AM ===== Time taken for this one field ======  229.32
+10/04/2023 12:56:49 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_variance_budget/
+10/04/2023 12:56:49 AM ===== Time taken for this one field ======  248.43
+10/04/2023 01:01:20 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_variance_budget/
+10/04/2023 01:01:20 AM ===== Time taken for this one field ======  265.92
+10/04/2023 01:05:54 AM Succesfully calculated and saved BLOCK_window_list_dAdtfull_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_variance_budget/
+10/04/2023 01:05:54 AM ===== Time taken for this one field ======  271.38
+10/04/2023 01:10:27 AM Succesfully calculated and saved BLOCK_window_list_residual_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days4//synoptic_WA_variance_budget/
+10/04/2023 01:10:27 AM ===== Time taken for this one field ======  262.71
+10/04/2023 01:10:27 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 01:10:27 AM ----------------Day = 5-----------------------
+10/04/2023 01:12:23 AM Succesfully calculated and saved BLOCK_window_list_A_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral_difference/
+10/04/2023 01:12:23 AM ===== Time taken for this one field ======  115.68
+10/04/2023 01:14:22 AM Succesfully calculated and saved BLOCK_window_list_Fx_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral_difference/
+10/04/2023 01:14:22 AM ===== Time taken for this one field ======  118.87
+10/04/2023 01:16:21 AM Succesfully calculated and saved BLOCK_window_list_F1x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral_difference/
+10/04/2023 01:16:21 AM ===== Time taken for this one field ======  119.49
+10/04/2023 01:18:31 AM Succesfully calculated and saved BLOCK_window_list_F2x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral_difference/
+10/04/2023 01:18:31 AM ===== Time taken for this one field ======  130.09
+10/04/2023 01:20:36 AM Succesfully calculated and saved BLOCK_window_list_F3x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral_difference/
+10/04/2023 01:20:36 AM ===== Time taken for this one field ======  124.96
+10/04/2023 01:22:41 AM Succesfully calculated and saved BLOCK_window_list_EPy_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral_difference/
+10/04/2023 01:22:41 AM ===== Time taken for this one field ======  124.90
+10/04/2023 01:24:56 AM Succesfully calculated and saved BLOCK_window_list_EPz_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral_difference/
+10/04/2023 01:24:56 AM ===== Time taken for this one field ======  135.24
+10/04/2023 01:27:10 AM Succesfully calculated and saved BLOCK_window_list_residual_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral_difference/
+10/04/2023 01:27:10 AM ===== Time taken for this one field ======  133.32
+10/04/2023 01:27:10 AM Succesfully calculated and saved BLOCK_window_list_A_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral/
+10/04/2023 01:27:10 AM ===== Time taken for this one field ======  0.80
+10/04/2023 01:27:11 AM Succesfully calculated and saved BLOCK_window_list_Fx_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral/
+10/04/2023 01:27:11 AM ===== Time taken for this one field ======  0.78
+10/04/2023 01:27:12 AM Succesfully calculated and saved BLOCK_window_list_F1x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral/
+10/04/2023 01:27:12 AM ===== Time taken for this one field ======  0.86
+10/04/2023 01:27:13 AM Succesfully calculated and saved BLOCK_window_list_F2x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral/
+10/04/2023 01:27:13 AM ===== Time taken for this one field ======  0.86
+10/04/2023 01:27:14 AM Succesfully calculated and saved BLOCK_window_list_F3x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral/
+10/04/2023 01:27:14 AM ===== Time taken for this one field ======  0.75
+10/04/2023 01:27:14 AM Succesfully calculated and saved BLOCK_window_list_EPy_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral/
+10/04/2023 01:27:14 AM ===== Time taken for this one field ======  0.77
+10/04/2023 01:27:15 AM Succesfully calculated and saved BLOCK_window_list_EPz_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral/
+10/04/2023 01:27:15 AM ===== Time taken for this one field ======  0.75
+10/04/2023 01:27:16 AM Succesfully calculated and saved BLOCK_window_list_residual_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_integral/
+10/04/2023 01:27:16 AM ===== Time taken for this one field ======  0.68
+10/04/2023 01:29:17 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_budget/
+10/04/2023 01:29:17 AM ===== Time taken for this one field ======  121.05
+10/04/2023 01:31:23 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_budget/
+10/04/2023 01:31:23 AM ===== Time taken for this one field ======  126.39
+10/04/2023 01:33:32 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_budget/
+10/04/2023 01:33:32 AM ===== Time taken for this one field ======  128.22
+10/04/2023 01:35:40 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_budget/
+10/04/2023 01:35:40 AM ===== Time taken for this one field ======  128.09
+10/04/2023 01:37:47 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_budget/
+10/04/2023 01:37:47 AM ===== Time taken for this one field ======  127.54
+10/04/2023 01:39:54 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_budget/
+10/04/2023 01:39:54 AM ===== Time taken for this one field ======  127.34
+10/04/2023 01:42:02 AM Succesfully calculated and saved BLOCK_window_list_dAdt_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_budget/
+10/04/2023 01:42:02 AM ===== Time taken for this one field ======  127.63
+10/04/2023 01:44:17 AM Succesfully calculated and saved BLOCK_window_list_A_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_fluxes/
+10/04/2023 01:44:17 AM ===== Time taken for this one field ======  134.48
+10/04/2023 01:46:23 AM Succesfully calculated and saved BLOCK_window_list_F_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_fluxes/
+10/04/2023 01:46:23 AM ===== Time taken for this one field ======  117.99
+10/04/2023 01:48:25 AM Succesfully calculated and saved BLOCK_window_list_F1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_fluxes/
+10/04/2023 01:48:25 AM ===== Time taken for this one field ======  121.69
+10/04/2023 01:50:21 AM Succesfully calculated and saved BLOCK_window_list_F2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_fluxes/
+10/04/2023 01:50:21 AM ===== Time taken for this one field ======  116.17
+10/04/2023 01:52:23 AM Succesfully calculated and saved BLOCK_window_list_F3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_fluxes/
+10/04/2023 01:52:23 AM ===== Time taken for this one field ======  122.13
+10/04/2023 01:54:24 AM Succesfully calculated and saved BLOCK_window_list_F_EPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_fluxes/
+10/04/2023 01:54:24 AM ===== Time taken for this one field ======  120.60
+10/04/2023 01:56:31 AM Succesfully calculated and saved BLOCK_window_list_F_EPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_fluxes/
+10/04/2023 01:56:31 AM ===== Time taken for this one field ======  127.15
+10/04/2023 01:58:25 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_variance_budget/
+10/04/2023 01:58:25 AM ===== Time taken for this one field ======  110.25
+10/04/2023 02:00:31 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_variance_budget/
+10/04/2023 02:00:31 AM ===== Time taken for this one field ======  120.43
+10/04/2023 02:02:41 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_variance_budget/
+10/04/2023 02:02:41 AM ===== Time taken for this one field ======  124.69
+10/04/2023 02:04:51 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_variance_budget/
+10/04/2023 02:04:51 AM ===== Time taken for this one field ======  126.94
+10/04/2023 02:07:01 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_variance_budget/
+10/04/2023 02:07:01 AM ===== Time taken for this one field ======  126.76
+10/04/2023 02:09:07 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_variance_budget/
+10/04/2023 02:09:07 AM ===== Time taken for this one field ======  121.44
+10/04/2023 02:11:15 AM Succesfully calculated and saved BLOCK_window_list_dAdtfull_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_variance_budget/
+10/04/2023 02:11:15 AM ===== Time taken for this one field ======  125.61
+10/04/2023 02:13:26 AM Succesfully calculated and saved BLOCK_window_list_residual_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days5//synoptic_WA_variance_budget/
+10/04/2023 02:13:26 AM ===== Time taken for this one field ======  127.26
+10/04/2023 02:13:26 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 02:13:26 AM ----------------Day = 6-----------------------
+10/04/2023 02:15:28 AM Succesfully calculated and saved BLOCK_window_list_A_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral_difference/
+10/04/2023 02:15:28 AM ===== Time taken for this one field ======  122.13
+10/04/2023 02:17:35 AM Succesfully calculated and saved BLOCK_window_list_Fx_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral_difference/
+10/04/2023 02:17:35 AM ===== Time taken for this one field ======  126.57
+10/04/2023 02:19:41 AM Succesfully calculated and saved BLOCK_window_list_F1x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral_difference/
+10/04/2023 02:19:41 AM ===== Time taken for this one field ======  126.01
+10/04/2023 02:21:48 AM Succesfully calculated and saved BLOCK_window_list_F2x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral_difference/
+10/04/2023 02:21:48 AM ===== Time taken for this one field ======  127.19
+10/04/2023 02:23:57 AM Succesfully calculated and saved BLOCK_window_list_F3x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral_difference/
+10/04/2023 02:23:57 AM ===== Time taken for this one field ======  128.91
+10/04/2023 02:26:06 AM Succesfully calculated and saved BLOCK_window_list_EPy_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral_difference/
+10/04/2023 02:26:06 AM ===== Time taken for this one field ======  128.97
+10/04/2023 02:28:11 AM Succesfully calculated and saved BLOCK_window_list_EPz_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral_difference/
+10/04/2023 02:28:11 AM ===== Time taken for this one field ======  125.34
+10/04/2023 02:30:00 AM Succesfully calculated and saved BLOCK_window_list_residual_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral_difference/
+10/04/2023 02:30:00 AM ===== Time taken for this one field ======  109.00
+10/04/2023 02:30:01 AM Succesfully calculated and saved BLOCK_window_list_A_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral/
+10/04/2023 02:30:01 AM ===== Time taken for this one field ======  0.81
+10/04/2023 02:30:02 AM Succesfully calculated and saved BLOCK_window_list_Fx_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral/
+10/04/2023 02:30:02 AM ===== Time taken for this one field ======  0.87
+10/04/2023 02:30:03 AM Succesfully calculated and saved BLOCK_window_list_F1x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral/
+10/04/2023 02:30:03 AM ===== Time taken for this one field ======  0.72
+10/04/2023 02:30:04 AM Succesfully calculated and saved BLOCK_window_list_F2x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral/
+10/04/2023 02:30:04 AM ===== Time taken for this one field ======  0.68
+10/04/2023 02:30:04 AM Succesfully calculated and saved BLOCK_window_list_F3x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral/
+10/04/2023 02:30:04 AM ===== Time taken for this one field ======  0.70
+10/04/2023 02:30:05 AM Succesfully calculated and saved BLOCK_window_list_EPy_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral/
+10/04/2023 02:30:05 AM ===== Time taken for this one field ======  0.70
+10/04/2023 02:30:06 AM Succesfully calculated and saved BLOCK_window_list_EPz_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral/
+10/04/2023 02:30:06 AM ===== Time taken for this one field ======  0.68
+10/04/2023 02:30:06 AM Succesfully calculated and saved BLOCK_window_list_residual_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_integral/
+10/04/2023 02:30:06 AM ===== Time taken for this one field ======  0.67
+10/04/2023 02:31:46 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_budget/
+10/04/2023 02:31:46 AM ===== Time taken for this one field ======  99.94
+10/04/2023 02:33:28 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_budget/
+10/04/2023 02:33:28 AM ===== Time taken for this one field ======  101.80
+10/04/2023 02:35:12 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_budget/
+10/04/2023 02:35:12 AM ===== Time taken for this one field ======  104.03
+10/04/2023 02:36:58 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_budget/
+10/04/2023 02:36:58 AM ===== Time taken for this one field ======  105.66
+10/04/2023 02:38:43 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_budget/
+10/04/2023 02:38:43 AM ===== Time taken for this one field ======  105.38
+10/04/2023 02:40:31 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_budget/
+10/04/2023 02:40:31 AM ===== Time taken for this one field ======  107.85
+10/04/2023 02:42:17 AM Succesfully calculated and saved BLOCK_window_list_dAdt_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_budget/
+10/04/2023 02:42:17 AM ===== Time taken for this one field ======  105.74
+10/04/2023 02:44:11 AM Succesfully calculated and saved BLOCK_window_list_A_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_fluxes/
+10/04/2023 02:44:11 AM ===== Time taken for this one field ======  113.96
+10/04/2023 02:46:18 AM Succesfully calculated and saved BLOCK_window_list_F_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_fluxes/
+10/04/2023 02:46:18 AM ===== Time taken for this one field ======  116.00
+10/04/2023 02:48:05 AM Succesfully calculated and saved BLOCK_window_list_F1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_fluxes/
+10/04/2023 02:48:05 AM ===== Time taken for this one field ======  107.57
+10/04/2023 02:49:56 AM Succesfully calculated and saved BLOCK_window_list_F2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_fluxes/
+10/04/2023 02:49:56 AM ===== Time taken for this one field ======  110.46
+10/04/2023 02:51:47 AM Succesfully calculated and saved BLOCK_window_list_F3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_fluxes/
+10/04/2023 02:51:47 AM ===== Time taken for this one field ======  111.66
+10/04/2023 02:53:52 AM Succesfully calculated and saved BLOCK_window_list_F_EPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_fluxes/
+10/04/2023 02:53:52 AM ===== Time taken for this one field ======  124.17
+10/04/2023 02:55:46 AM Succesfully calculated and saved BLOCK_window_list_F_EPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_fluxes/
+10/04/2023 02:55:46 AM ===== Time taken for this one field ======  114.76
+10/04/2023 02:57:56 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_variance_budget/
+10/04/2023 02:57:56 AM ===== Time taken for this one field ======  123.84
+10/04/2023 02:59:55 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_variance_budget/
+10/04/2023 02:59:55 AM ===== Time taken for this one field ======  114.07
+10/04/2023 03:02:08 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_variance_budget/
+10/04/2023 03:02:08 AM ===== Time taken for this one field ======  125.96
+10/04/2023 03:04:20 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_variance_budget/
+10/04/2023 03:04:20 AM ===== Time taken for this one field ======  122.86
+10/04/2023 03:06:35 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_variance_budget/
+10/04/2023 03:06:35 AM ===== Time taken for this one field ======  125.17
+10/04/2023 03:08:43 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_variance_budget/
+10/04/2023 03:08:43 AM ===== Time taken for this one field ======  120.42
+10/04/2023 03:10:52 AM Succesfully calculated and saved BLOCK_window_list_dAdtfull_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_variance_budget/
+10/04/2023 03:10:52 AM ===== Time taken for this one field ======  126.90
+10/04/2023 03:13:02 AM Succesfully calculated and saved BLOCK_window_list_residual_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days6//synoptic_WA_variance_budget/
+10/04/2023 03:13:02 AM ===== Time taken for this one field ======  119.77
+10/04/2023 03:13:03 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 03:13:03 AM ----------------Day = 7-----------------------
+10/04/2023 03:14:16 AM Succesfully calculated and saved BLOCK_window_list_A_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral_difference/
+10/04/2023 03:14:16 AM ===== Time taken for this one field ======  73.42
+10/04/2023 03:15:29 AM Succesfully calculated and saved BLOCK_window_list_Fx_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral_difference/
+10/04/2023 03:15:29 AM ===== Time taken for this one field ======  73.02
+10/04/2023 03:16:40 AM Succesfully calculated and saved BLOCK_window_list_F1x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral_difference/
+10/04/2023 03:16:40 AM ===== Time taken for this one field ======  70.66
+10/04/2023 03:17:45 AM Succesfully calculated and saved BLOCK_window_list_F2x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral_difference/
+10/04/2023 03:17:45 AM ===== Time taken for this one field ======  65.21
+10/04/2023 03:18:52 AM Succesfully calculated and saved BLOCK_window_list_F3x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral_difference/
+10/04/2023 03:18:52 AM ===== Time taken for this one field ======  67.04
+10/04/2023 03:20:05 AM Succesfully calculated and saved BLOCK_window_list_EPy_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral_difference/
+10/04/2023 03:20:05 AM ===== Time taken for this one field ======  73.30
+10/04/2023 03:21:24 AM Succesfully calculated and saved BLOCK_window_list_EPz_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral_difference/
+10/04/2023 03:21:24 AM ===== Time taken for this one field ======  78.89
+10/04/2023 03:22:38 AM Succesfully calculated and saved BLOCK_window_list_residual_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral_difference/
+10/04/2023 03:22:38 AM ===== Time taken for this one field ======  74.34
+10/04/2023 03:22:39 AM Succesfully calculated and saved BLOCK_window_list_A_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral/
+10/04/2023 03:22:39 AM ===== Time taken for this one field ======  0.52
+10/04/2023 03:22:40 AM Succesfully calculated and saved BLOCK_window_list_Fx_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral/
+10/04/2023 03:22:40 AM ===== Time taken for this one field ======  0.58
+10/04/2023 03:22:40 AM Succesfully calculated and saved BLOCK_window_list_F1x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral/
+10/04/2023 03:22:40 AM ===== Time taken for this one field ======  0.45
+10/04/2023 03:22:40 AM Succesfully calculated and saved BLOCK_window_list_F2x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral/
+10/04/2023 03:22:40 AM ===== Time taken for this one field ======  0.44
+10/04/2023 03:22:41 AM Succesfully calculated and saved BLOCK_window_list_F3x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral/
+10/04/2023 03:22:41 AM ===== Time taken for this one field ======  0.45
+10/04/2023 03:22:41 AM Succesfully calculated and saved BLOCK_window_list_EPy_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral/
+10/04/2023 03:22:41 AM ===== Time taken for this one field ======  0.43
+10/04/2023 03:22:42 AM Succesfully calculated and saved BLOCK_window_list_EPz_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral/
+10/04/2023 03:22:42 AM ===== Time taken for this one field ======  0.44
+10/04/2023 03:22:42 AM Succesfully calculated and saved BLOCK_window_list_residual_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_integral/
+10/04/2023 03:22:42 AM ===== Time taken for this one field ======  0.41
+10/04/2023 03:23:50 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_budget/
+10/04/2023 03:23:50 AM ===== Time taken for this one field ======  67.63
+10/04/2023 03:24:56 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_budget/
+10/04/2023 03:24:56 AM ===== Time taken for this one field ======  65.95
+10/04/2023 03:25:59 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_budget/
+10/04/2023 03:25:59 AM ===== Time taken for this one field ======  63.09
+10/04/2023 03:27:03 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_budget/
+10/04/2023 03:27:03 AM ===== Time taken for this one field ======  64.25
+10/04/2023 03:28:07 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_budget/
+10/04/2023 03:28:07 AM ===== Time taken for this one field ======  64.28
+10/04/2023 03:29:13 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_budget/
+10/04/2023 03:29:13 AM ===== Time taken for this one field ======  65.67
+10/04/2023 03:30:19 AM Succesfully calculated and saved BLOCK_window_list_dAdt_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_budget/
+10/04/2023 03:30:19 AM ===== Time taken for this one field ======  65.71
+10/04/2023 03:31:29 AM Succesfully calculated and saved BLOCK_window_list_A_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_fluxes/
+10/04/2023 03:31:29 AM ===== Time taken for this one field ======  70.58
+10/04/2023 03:32:43 AM Succesfully calculated and saved BLOCK_window_list_F_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_fluxes/
+10/04/2023 03:32:43 AM ===== Time taken for this one field ======  63.32
+10/04/2023 03:33:49 AM Succesfully calculated and saved BLOCK_window_list_F1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_fluxes/
+10/04/2023 03:33:49 AM ===== Time taken for this one field ======  66.69
+10/04/2023 03:34:56 AM Succesfully calculated and saved BLOCK_window_list_F2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_fluxes/
+10/04/2023 03:34:56 AM ===== Time taken for this one field ======  66.41
+10/04/2023 03:35:59 AM Succesfully calculated and saved BLOCK_window_list_F3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_fluxes/
+10/04/2023 03:35:59 AM ===== Time taken for this one field ======  62.96
+10/04/2023 03:37:02 AM Succesfully calculated and saved BLOCK_window_list_F_EPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_fluxes/
+10/04/2023 03:37:02 AM ===== Time taken for this one field ======  63.39
+10/04/2023 03:38:10 AM Succesfully calculated and saved BLOCK_window_list_F_EPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_fluxes/
+10/04/2023 03:38:10 AM ===== Time taken for this one field ======  67.66
+10/04/2023 03:39:21 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_variance_budget/
+10/04/2023 03:39:21 AM ===== Time taken for this one field ======  64.61
+10/04/2023 03:40:32 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_variance_budget/
+10/04/2023 03:40:32 AM ===== Time taken for this one field ======  62.86
+10/04/2023 03:41:42 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_variance_budget/
+10/04/2023 03:41:42 AM ===== Time taken for this one field ======  64.36
+10/04/2023 03:42:54 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_variance_budget/
+10/04/2023 03:42:54 AM ===== Time taken for this one field ======  66.40
+10/04/2023 03:44:04 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_variance_budget/
+10/04/2023 03:44:04 AM ===== Time taken for this one field ======  65.57
+10/04/2023 03:45:14 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_variance_budget/
+10/04/2023 03:45:14 AM ===== Time taken for this one field ======  64.93
+10/04/2023 03:46:24 AM Succesfully calculated and saved BLOCK_window_list_dAdtfull_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_variance_budget/
+10/04/2023 03:46:24 AM ===== Time taken for this one field ======  67.32
+10/04/2023 03:47:34 AM Succesfully calculated and saved BLOCK_window_list_residual_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days7//synoptic_WA_variance_budget/
+10/04/2023 03:47:34 AM ===== Time taken for this one field ======  65.70
+10/04/2023 03:47:35 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 03:47:35 AM ----------------Day = 8-----------------------
+10/04/2023 03:48:39 AM Succesfully calculated and saved BLOCK_window_list_A_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral_difference/
+10/04/2023 03:48:39 AM ===== Time taken for this one field ======  64.20
+10/04/2023 03:49:45 AM Succesfully calculated and saved BLOCK_window_list_Fx_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral_difference/
+10/04/2023 03:49:45 AM ===== Time taken for this one field ======  66.12
+10/04/2023 03:50:51 AM Succesfully calculated and saved BLOCK_window_list_F1x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral_difference/
+10/04/2023 03:50:51 AM ===== Time taken for this one field ======  66.17
+10/04/2023 03:52:00 AM Succesfully calculated and saved BLOCK_window_list_F2x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral_difference/
+10/04/2023 03:52:00 AM ===== Time taken for this one field ======  68.51
+10/04/2023 03:53:05 AM Succesfully calculated and saved BLOCK_window_list_F3x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral_difference/
+10/04/2023 03:53:05 AM ===== Time taken for this one field ======  65.80
+10/04/2023 03:54:05 AM Succesfully calculated and saved BLOCK_window_list_EPy_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral_difference/
+10/04/2023 03:54:05 AM ===== Time taken for this one field ======  59.32
+10/04/2023 03:55:05 AM Succesfully calculated and saved BLOCK_window_list_EPz_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral_difference/
+10/04/2023 03:55:05 AM ===== Time taken for this one field ======  60.33
+10/04/2023 03:56:09 AM Succesfully calculated and saved BLOCK_window_list_residual_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral_difference/
+10/04/2023 03:56:09 AM ===== Time taken for this one field ======  63.89
+10/04/2023 03:56:09 AM Succesfully calculated and saved BLOCK_window_list_A_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral/
+10/04/2023 03:56:09 AM ===== Time taken for this one field ======  0.47
+10/04/2023 03:56:10 AM Succesfully calculated and saved BLOCK_window_list_Fx_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral/
+10/04/2023 03:56:10 AM ===== Time taken for this one field ======  0.42
+10/04/2023 03:56:10 AM Succesfully calculated and saved BLOCK_window_list_F1x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral/
+10/04/2023 03:56:10 AM ===== Time taken for this one field ======  0.40
+10/04/2023 03:56:11 AM Succesfully calculated and saved BLOCK_window_list_F2x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral/
+10/04/2023 03:56:11 AM ===== Time taken for this one field ======  0.35
+10/04/2023 03:56:11 AM Succesfully calculated and saved BLOCK_window_list_F3x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral/
+10/04/2023 03:56:11 AM ===== Time taken for this one field ======  0.37
+10/04/2023 03:56:11 AM Succesfully calculated and saved BLOCK_window_list_EPy_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral/
+10/04/2023 03:56:11 AM ===== Time taken for this one field ======  0.35
+10/04/2023 03:56:12 AM Succesfully calculated and saved BLOCK_window_list_EPz_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral/
+10/04/2023 03:56:12 AM ===== Time taken for this one field ======  0.37
+10/04/2023 03:56:12 AM Succesfully calculated and saved BLOCK_window_list_residual_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_integral/
+10/04/2023 03:56:12 AM ===== Time taken for this one field ======  0.34
+10/04/2023 03:57:20 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_budget/
+10/04/2023 03:57:20 AM ===== Time taken for this one field ======  68.08
+10/04/2023 03:58:18 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_budget/
+10/04/2023 03:58:18 AM ===== Time taken for this one field ======  57.42
+10/04/2023 03:59:14 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_budget/
+10/04/2023 03:59:14 AM ===== Time taken for this one field ======  56.17
+10/04/2023 04:00:10 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_budget/
+10/04/2023 04:00:10 AM ===== Time taken for this one field ======  56.78
+10/04/2023 04:01:05 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_budget/
+10/04/2023 04:01:05 AM ===== Time taken for this one field ======  54.75
+10/04/2023 04:02:00 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_budget/
+10/04/2023 04:02:00 AM ===== Time taken for this one field ======  54.31
+10/04/2023 04:02:55 AM Succesfully calculated and saved BLOCK_window_list_dAdt_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_budget/
+10/04/2023 04:02:55 AM ===== Time taken for this one field ======  55.67
+10/04/2023 04:03:53 AM Succesfully calculated and saved BLOCK_window_list_A_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_fluxes/
+10/04/2023 04:03:53 AM ===== Time taken for this one field ======  58.07
+10/04/2023 04:05:03 AM Succesfully calculated and saved BLOCK_window_list_F_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_fluxes/
+10/04/2023 04:05:03 AM ===== Time taken for this one field ======  62.33
+10/04/2023 04:06:02 AM Succesfully calculated and saved BLOCK_window_list_F1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_fluxes/
+10/04/2023 04:06:02 AM ===== Time taken for this one field ======  58.91
+10/04/2023 04:07:02 AM Succesfully calculated and saved BLOCK_window_list_F2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_fluxes/
+10/04/2023 04:07:02 AM ===== Time taken for this one field ======  59.17
+10/04/2023 04:08:00 AM Succesfully calculated and saved BLOCK_window_list_F3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_fluxes/
+10/04/2023 04:08:00 AM ===== Time taken for this one field ======  57.94
+10/04/2023 04:09:03 AM Succesfully calculated and saved BLOCK_window_list_F_EPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_fluxes/
+10/04/2023 04:09:03 AM ===== Time taken for this one field ======  63.92
+10/04/2023 04:10:03 AM Succesfully calculated and saved BLOCK_window_list_F_EPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_fluxes/
+10/04/2023 04:10:03 AM ===== Time taken for this one field ======  59.89
+10/04/2023 04:11:09 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_variance_budget/
+10/04/2023 04:11:09 AM ===== Time taken for this one field ======  61.31
+10/04/2023 04:12:17 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_variance_budget/
+10/04/2023 04:12:17 AM ===== Time taken for this one field ======  63.68
+10/04/2023 04:13:24 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_variance_budget/
+10/04/2023 04:13:24 AM ===== Time taken for this one field ======  63.14
+10/04/2023 04:14:32 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_variance_budget/
+10/04/2023 04:14:32 AM ===== Time taken for this one field ======  62.85
+10/04/2023 04:15:39 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_variance_budget/
+10/04/2023 04:15:39 AM ===== Time taken for this one field ======  61.37
+10/04/2023 04:16:46 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_variance_budget/
+10/04/2023 04:16:46 AM ===== Time taken for this one field ======  59.73
+10/04/2023 04:17:52 AM Succesfully calculated and saved BLOCK_window_list_dAdtfull_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_variance_budget/
+10/04/2023 04:17:52 AM ===== Time taken for this one field ======  63.16
+10/04/2023 04:19:04 AM Succesfully calculated and saved BLOCK_window_list_residual_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days8//synoptic_WA_variance_budget/
+10/04/2023 04:19:04 AM ===== Time taken for this one field ======  62.57
+10/04/2023 04:19:04 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 04:19:04 AM ----------------Day = 9-----------------------
+10/04/2023 04:19:18 AM Succesfully calculated and saved BLOCK_window_list_A_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral_difference/
+10/04/2023 04:19:18 AM ===== Time taken for this one field ======  14.48
+10/04/2023 04:19:32 AM Succesfully calculated and saved BLOCK_window_list_Fx_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral_difference/
+10/04/2023 04:19:32 AM ===== Time taken for this one field ======  14.07
+10/04/2023 04:19:45 AM Succesfully calculated and saved BLOCK_window_list_F1x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral_difference/
+10/04/2023 04:19:45 AM ===== Time taken for this one field ======  12.97
+10/04/2023 04:19:57 AM Succesfully calculated and saved BLOCK_window_list_F2x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral_difference/
+10/04/2023 04:19:57 AM ===== Time taken for this one field ======  11.80
+10/04/2023 04:20:10 AM Succesfully calculated and saved BLOCK_window_list_F3x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral_difference/
+10/04/2023 04:20:10 AM ===== Time taken for this one field ======  12.86
+10/04/2023 04:20:22 AM Succesfully calculated and saved BLOCK_window_list_EPy_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral_difference/
+10/04/2023 04:20:22 AM ===== Time taken for this one field ======  12.28
+10/04/2023 04:20:35 AM Succesfully calculated and saved BLOCK_window_list_EPz_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral_difference/
+10/04/2023 04:20:35 AM ===== Time taken for this one field ======  12.21
+10/04/2023 04:20:46 AM Succesfully calculated and saved BLOCK_window_list_residual_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral_difference/
+10/04/2023 04:20:46 AM ===== Time taken for this one field ======  11.79
+10/04/2023 04:20:46 AM Succesfully calculated and saved BLOCK_window_list_A_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral/
+10/04/2023 04:20:46 AM ===== Time taken for this one field ======  0.09
+10/04/2023 04:20:47 AM Succesfully calculated and saved BLOCK_window_list_Fx_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral/
+10/04/2023 04:20:47 AM ===== Time taken for this one field ======  0.14
+10/04/2023 04:20:47 AM Succesfully calculated and saved BLOCK_window_list_F1x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral/
+10/04/2023 04:20:47 AM ===== Time taken for this one field ======  0.13
+10/04/2023 04:20:47 AM Succesfully calculated and saved BLOCK_window_list_F2x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral/
+10/04/2023 04:20:47 AM ===== Time taken for this one field ======  0.09
+10/04/2023 04:20:47 AM Succesfully calculated and saved BLOCK_window_list_F3x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral/
+10/04/2023 04:20:47 AM ===== Time taken for this one field ======  0.09
+10/04/2023 04:20:47 AM Succesfully calculated and saved BLOCK_window_list_EPy_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral/
+10/04/2023 04:20:47 AM ===== Time taken for this one field ======  0.10
+10/04/2023 04:20:47 AM Succesfully calculated and saved BLOCK_window_list_EPz_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral/
+10/04/2023 04:20:47 AM ===== Time taken for this one field ======  0.08
+10/04/2023 04:20:47 AM Succesfully calculated and saved BLOCK_window_list_residual_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_integral/
+10/04/2023 04:20:47 AM ===== Time taken for this one field ======  0.12
+10/04/2023 04:20:57 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_budget/
+10/04/2023 04:20:57 AM ===== Time taken for this one field ======  10.17
+10/04/2023 04:21:07 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_budget/
+10/04/2023 04:21:07 AM ===== Time taken for this one field ======  10.02
+10/04/2023 04:21:17 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_budget/
+10/04/2023 04:21:17 AM ===== Time taken for this one field ======  9.87
+10/04/2023 04:21:27 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_budget/
+10/04/2023 04:21:27 AM ===== Time taken for this one field ======  9.61
+10/04/2023 04:21:36 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_budget/
+10/04/2023 04:21:36 AM ===== Time taken for this one field ======  9.59
+10/04/2023 04:21:46 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_budget/
+10/04/2023 04:21:46 AM ===== Time taken for this one field ======  9.28
+10/04/2023 04:21:56 AM Succesfully calculated and saved BLOCK_window_list_dAdt_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_budget/
+10/04/2023 04:21:56 AM ===== Time taken for this one field ======  10.09
+10/04/2023 04:22:08 AM Succesfully calculated and saved BLOCK_window_list_A_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_fluxes/
+10/04/2023 04:22:08 AM ===== Time taken for this one field ======  12.09
+10/04/2023 04:22:26 AM Succesfully calculated and saved BLOCK_window_list_F_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_fluxes/
+10/04/2023 04:22:26 AM ===== Time taken for this one field ======  9.88
+10/04/2023 04:22:40 AM Succesfully calculated and saved BLOCK_window_list_F1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_fluxes/
+10/04/2023 04:22:40 AM ===== Time taken for this one field ======  14.44
+10/04/2023 04:22:53 AM Succesfully calculated and saved BLOCK_window_list_F2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_fluxes/
+10/04/2023 04:22:53 AM ===== Time taken for this one field ======  13.14
+10/04/2023 04:23:04 AM Succesfully calculated and saved BLOCK_window_list_F3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_fluxes/
+10/04/2023 04:23:04 AM ===== Time taken for this one field ======  10.43
+10/04/2023 04:23:14 AM Succesfully calculated and saved BLOCK_window_list_F_EPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_fluxes/
+10/04/2023 04:23:14 AM ===== Time taken for this one field ======  10.53
+10/04/2023 04:23:31 AM Succesfully calculated and saved BLOCK_window_list_F_EPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_fluxes/
+10/04/2023 04:23:31 AM ===== Time taken for this one field ======  16.40
+10/04/2023 04:23:47 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_variance_budget/
+10/04/2023 04:23:47 AM ===== Time taken for this one field ======  10.13
+10/04/2023 04:24:02 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_variance_budget/
+10/04/2023 04:24:02 AM ===== Time taken for this one field ======  9.31
+10/04/2023 04:24:18 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_variance_budget/
+10/04/2023 04:24:18 AM ===== Time taken for this one field ======  10.23
+10/04/2023 04:24:33 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_variance_budget/
+10/04/2023 04:24:33 AM ===== Time taken for this one field ======  9.44
+10/04/2023 04:24:46 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_variance_budget/
+10/04/2023 04:24:46 AM ===== Time taken for this one field ======  9.29
+10/04/2023 04:25:03 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_variance_budget/
+10/04/2023 04:25:03 AM ===== Time taken for this one field ======  10.45
+10/04/2023 04:25:14 AM Succesfully calculated and saved BLOCK_window_list_dAdtfull_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_variance_budget/
+10/04/2023 04:25:14 AM ===== Time taken for this one field ======  9.35
+10/04/2023 04:25:27 AM Succesfully calculated and saved BLOCK_window_list_residual_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days9//synoptic_WA_variance_budget/
+10/04/2023 04:25:27 AM ===== Time taken for this one field ======  9.21
+10/04/2023 04:25:28 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 04:25:28 AM ----------------Day = 10-----------------------
+10/04/2023 04:26:06 AM Succesfully calculated and saved BLOCK_window_list_A_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral_difference/
+10/04/2023 04:26:06 AM ===== Time taken for this one field ======  38.13
+10/04/2023 04:26:45 AM Succesfully calculated and saved BLOCK_window_list_Fx_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral_difference/
+10/04/2023 04:26:45 AM ===== Time taken for this one field ======  39.12
+10/04/2023 04:27:24 AM Succesfully calculated and saved BLOCK_window_list_F1x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral_difference/
+10/04/2023 04:27:24 AM ===== Time taken for this one field ======  38.97
+10/04/2023 04:28:06 AM Succesfully calculated and saved BLOCK_window_list_F2x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral_difference/
+10/04/2023 04:28:06 AM ===== Time taken for this one field ======  41.83
+10/04/2023 04:28:46 AM Succesfully calculated and saved BLOCK_window_list_F3x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral_difference/
+10/04/2023 04:28:46 AM ===== Time taken for this one field ======  40.76
+10/04/2023 04:29:26 AM Succesfully calculated and saved BLOCK_window_list_EPy_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral_difference/
+10/04/2023 04:29:26 AM ===== Time taken for this one field ======  39.43
+10/04/2023 04:30:02 AM Succesfully calculated and saved BLOCK_window_list_EPz_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral_difference/
+10/04/2023 04:30:02 AM ===== Time taken for this one field ======  36.29
+10/04/2023 04:30:41 AM Succesfully calculated and saved BLOCK_window_list_residual_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral_difference/
+10/04/2023 04:30:41 AM ===== Time taken for this one field ======  39.34
+10/04/2023 04:30:42 AM Succesfully calculated and saved BLOCK_window_list_A_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral/
+10/04/2023 04:30:42 AM ===== Time taken for this one field ======  0.22
+10/04/2023 04:30:42 AM Succesfully calculated and saved BLOCK_window_list_Fx_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral/
+10/04/2023 04:30:42 AM ===== Time taken for this one field ======  0.28
+10/04/2023 04:30:42 AM Succesfully calculated and saved BLOCK_window_list_F1x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral/
+10/04/2023 04:30:42 AM ===== Time taken for this one field ======  0.26
+10/04/2023 04:30:42 AM Succesfully calculated and saved BLOCK_window_list_F2x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral/
+10/04/2023 04:30:42 AM ===== Time taken for this one field ======  0.24
+10/04/2023 04:30:43 AM Succesfully calculated and saved BLOCK_window_list_F3x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral/
+10/04/2023 04:30:43 AM ===== Time taken for this one field ======  0.28
+10/04/2023 04:30:43 AM Succesfully calculated and saved BLOCK_window_list_EPy_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral/
+10/04/2023 04:30:43 AM ===== Time taken for this one field ======  0.27
+10/04/2023 04:30:43 AM Succesfully calculated and saved BLOCK_window_list_EPz_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral/
+10/04/2023 04:30:43 AM ===== Time taken for this one field ======  0.28
+10/04/2023 04:30:43 AM Succesfully calculated and saved BLOCK_window_list_residual_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_integral/
+10/04/2023 04:30:43 AM ===== Time taken for this one field ======  0.25
+10/04/2023 04:31:24 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_budget/
+10/04/2023 04:31:24 AM ===== Time taken for this one field ======  40.58
+10/04/2023 04:32:00 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_budget/
+10/04/2023 04:32:00 AM ===== Time taken for this one field ======  36.25
+10/04/2023 04:32:39 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_budget/
+10/04/2023 04:32:39 AM ===== Time taken for this one field ======  38.63
+10/04/2023 04:33:18 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_budget/
+10/04/2023 04:33:18 AM ===== Time taken for this one field ======  39.15
+10/04/2023 04:33:55 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_budget/
+10/04/2023 04:33:55 AM ===== Time taken for this one field ======  37.37
+10/04/2023 04:34:32 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_budget/
+10/04/2023 04:34:32 AM ===== Time taken for this one field ======  36.86
+10/04/2023 04:35:09 AM Succesfully calculated and saved BLOCK_window_list_dAdt_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_budget/
+10/04/2023 04:35:09 AM ===== Time taken for this one field ======  36.62
+10/04/2023 04:35:46 AM Succesfully calculated and saved BLOCK_window_list_A_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_fluxes/
+10/04/2023 04:35:46 AM ===== Time taken for this one field ======  37.08
+10/04/2023 04:36:34 AM Succesfully calculated and saved BLOCK_window_list_F_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_fluxes/
+10/04/2023 04:36:34 AM ===== Time taken for this one field ======  33.76
+10/04/2023 04:37:09 AM Succesfully calculated and saved BLOCK_window_list_F1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_fluxes/
+10/04/2023 04:37:09 AM ===== Time taken for this one field ======  34.49
+10/04/2023 04:37:45 AM Succesfully calculated and saved BLOCK_window_list_F2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_fluxes/
+10/04/2023 04:37:45 AM ===== Time taken for this one field ======  36.69
+10/04/2023 04:38:19 AM Succesfully calculated and saved BLOCK_window_list_F3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_fluxes/
+10/04/2023 04:38:19 AM ===== Time taken for this one field ======  34.01
+10/04/2023 04:39:00 AM Succesfully calculated and saved BLOCK_window_list_F_EPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_fluxes/
+10/04/2023 04:39:00 AM ===== Time taken for this one field ======  40.38
+10/04/2023 04:39:36 AM Succesfully calculated and saved BLOCK_window_list_F_EPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_fluxes/
+10/04/2023 04:39:36 AM ===== Time taken for this one field ======  36.47
+10/04/2023 04:40:15 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_variance_budget/
+10/04/2023 04:40:15 AM ===== Time taken for this one field ======  33.36
+10/04/2023 04:40:54 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_variance_budget/
+10/04/2023 04:40:54 AM ===== Time taken for this one field ======  34.44
+10/04/2023 04:41:33 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_variance_budget/
+10/04/2023 04:41:33 AM ===== Time taken for this one field ======  34.28
+10/04/2023 04:42:11 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_variance_budget/
+10/04/2023 04:42:11 AM ===== Time taken for this one field ======  34.44
+10/04/2023 04:42:51 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_variance_budget/
+10/04/2023 04:42:51 AM ===== Time taken for this one field ======  33.48
+10/04/2023 04:43:31 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_variance_budget/
+10/04/2023 04:43:31 AM ===== Time taken for this one field ======  32.87
+10/04/2023 04:44:08 AM Succesfully calculated and saved BLOCK_window_list_dAdtfull_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_variance_budget/
+10/04/2023 04:44:08 AM ===== Time taken for this one field ======  34.20
+10/04/2023 04:44:51 AM Succesfully calculated and saved BLOCK_window_list_residual_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days10//synoptic_WA_variance_budget/
+10/04/2023 04:44:51 AM ===== Time taken for this one field ======  33.30
+10/04/2023 04:44:51 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 04:44:51 AM ----------------Day = 11-----------------------
+10/04/2023 04:45:07 AM Succesfully calculated and saved BLOCK_window_list_A_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral_difference/
+10/04/2023 04:45:07 AM ===== Time taken for this one field ======  15.86
+10/04/2023 04:45:20 AM Succesfully calculated and saved BLOCK_window_list_Fx_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral_difference/
+10/04/2023 04:45:20 AM ===== Time taken for this one field ======  13.02
+10/04/2023 04:45:33 AM Succesfully calculated and saved BLOCK_window_list_F1x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral_difference/
+10/04/2023 04:45:33 AM ===== Time taken for this one field ======  13.19
+10/04/2023 04:45:46 AM Succesfully calculated and saved BLOCK_window_list_F2x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral_difference/
+10/04/2023 04:45:46 AM ===== Time taken for this one field ======  13.03
+10/04/2023 04:46:00 AM Succesfully calculated and saved BLOCK_window_list_F3x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral_difference/
+10/04/2023 04:46:00 AM ===== Time taken for this one field ======  13.47
+10/04/2023 04:46:14 AM Succesfully calculated and saved BLOCK_window_list_EPy_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral_difference/
+10/04/2023 04:46:14 AM ===== Time taken for this one field ======  14.13
+10/04/2023 04:46:30 AM Succesfully calculated and saved BLOCK_window_list_EPz_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral_difference/
+10/04/2023 04:46:30 AM ===== Time taken for this one field ======  16.64
+10/04/2023 04:46:43 AM Succesfully calculated and saved BLOCK_window_list_residual_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral_difference/
+10/04/2023 04:46:43 AM ===== Time taken for this one field ======  12.80
+10/04/2023 04:46:43 AM Succesfully calculated and saved BLOCK_window_list_A_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral/
+10/04/2023 04:46:43 AM ===== Time taken for this one field ======  0.08
+10/04/2023 04:46:43 AM Succesfully calculated and saved BLOCK_window_list_Fx_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral/
+10/04/2023 04:46:43 AM ===== Time taken for this one field ======  0.10
+10/04/2023 04:46:44 AM Succesfully calculated and saved BLOCK_window_list_F1x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral/
+10/04/2023 04:46:44 AM ===== Time taken for this one field ======  0.08
+10/04/2023 04:46:44 AM Succesfully calculated and saved BLOCK_window_list_F2x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral/
+10/04/2023 04:46:44 AM ===== Time taken for this one field ======  0.08
+10/04/2023 04:46:44 AM Succesfully calculated and saved BLOCK_window_list_F3x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral/
+10/04/2023 04:46:44 AM ===== Time taken for this one field ======  0.08
+10/04/2023 04:46:44 AM Succesfully calculated and saved BLOCK_window_list_EPy_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral/
+10/04/2023 04:46:44 AM ===== Time taken for this one field ======  0.08
+10/04/2023 04:46:44 AM Succesfully calculated and saved BLOCK_window_list_EPz_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral/
+10/04/2023 04:46:44 AM ===== Time taken for this one field ======  0.08
+10/04/2023 04:46:44 AM Succesfully calculated and saved BLOCK_window_list_residual_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_integral/
+10/04/2023 04:46:44 AM ===== Time taken for this one field ======  0.08
+10/04/2023 04:46:56 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_budget/
+10/04/2023 04:46:56 AM ===== Time taken for this one field ======  11.81
+10/04/2023 04:47:06 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_budget/
+10/04/2023 04:47:06 AM ===== Time taken for this one field ======  10.35
+10/04/2023 04:47:16 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_budget/
+10/04/2023 04:47:16 AM ===== Time taken for this one field ======  10.27
+10/04/2023 04:47:28 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_budget/
+10/04/2023 04:47:28 AM ===== Time taken for this one field ======  11.13
+10/04/2023 04:47:37 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_budget/
+10/04/2023 04:47:37 AM ===== Time taken for this one field ======  9.61
+10/04/2023 04:47:49 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_budget/
+10/04/2023 04:47:49 AM ===== Time taken for this one field ======  11.61
+10/04/2023 04:48:02 AM Succesfully calculated and saved BLOCK_window_list_dAdt_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_budget/
+10/04/2023 04:48:02 AM ===== Time taken for this one field ======  12.92
+10/04/2023 04:48:15 AM Succesfully calculated and saved BLOCK_window_list_A_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_fluxes/
+10/04/2023 04:48:15 AM ===== Time taken for this one field ======  13.10
+10/04/2023 04:48:33 AM Succesfully calculated and saved BLOCK_window_list_F_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_fluxes/
+10/04/2023 04:48:33 AM ===== Time taken for this one field ======  10.48
+10/04/2023 04:48:47 AM Succesfully calculated and saved BLOCK_window_list_F1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_fluxes/
+10/04/2023 04:48:47 AM ===== Time taken for this one field ======  13.37
+10/04/2023 04:49:00 AM Succesfully calculated and saved BLOCK_window_list_F2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_fluxes/
+10/04/2023 04:49:00 AM ===== Time taken for this one field ======  12.69
+10/04/2023 04:49:11 AM Succesfully calculated and saved BLOCK_window_list_F3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_fluxes/
+10/04/2023 04:49:11 AM ===== Time taken for this one field ======  11.02
+10/04/2023 04:49:22 AM Succesfully calculated and saved BLOCK_window_list_F_EPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_fluxes/
+10/04/2023 04:49:22 AM ===== Time taken for this one field ======  11.20
+10/04/2023 04:49:36 AM Succesfully calculated and saved BLOCK_window_list_F_EPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_fluxes/
+10/04/2023 04:49:36 AM ===== Time taken for this one field ======  13.58
+10/04/2023 04:49:51 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_variance_budget/
+10/04/2023 04:49:51 AM ===== Time taken for this one field ======  11.10
+10/04/2023 04:50:06 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_variance_budget/
+10/04/2023 04:50:06 AM ===== Time taken for this one field ======  9.47
+10/04/2023 04:50:19 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_variance_budget/
+10/04/2023 04:50:19 AM ===== Time taken for this one field ======  9.52
+10/04/2023 04:50:33 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_variance_budget/
+10/04/2023 04:50:33 AM ===== Time taken for this one field ======  10.33
+10/04/2023 04:50:47 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_variance_budget/
+10/04/2023 04:50:47 AM ===== Time taken for this one field ======  9.73
+10/04/2023 04:51:01 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_variance_budget/
+10/04/2023 04:51:01 AM ===== Time taken for this one field ======  9.37
+10/04/2023 04:51:14 AM Succesfully calculated and saved BLOCK_window_list_dAdtfull_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_variance_budget/
+10/04/2023 04:51:14 AM ===== Time taken for this one field ======  10.61
+10/04/2023 04:51:28 AM Succesfully calculated and saved BLOCK_window_list_residual_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days11//synoptic_WA_variance_budget/
+10/04/2023 04:51:28 AM ===== Time taken for this one field ======  9.30
+10/04/2023 04:51:28 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 04:51:28 AM -------Day 12 is not present-------
+10/04/2023 04:51:28 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 04:51:28 AM ----------------Day = 13-----------------------
+10/04/2023 04:51:37 AM Succesfully calculated and saved BLOCK_window_list_A_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral_difference/
+10/04/2023 04:51:37 AM ===== Time taken for this one field ======  8.64
+10/04/2023 04:51:46 AM Succesfully calculated and saved BLOCK_window_list_Fx_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral_difference/
+10/04/2023 04:51:46 AM ===== Time taken for this one field ======  9.41
+10/04/2023 04:51:57 AM Succesfully calculated and saved BLOCK_window_list_F1x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral_difference/
+10/04/2023 04:51:57 AM ===== Time taken for this one field ======  10.35
+10/04/2023 04:52:07 AM Succesfully calculated and saved BLOCK_window_list_F2x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral_difference/
+10/04/2023 04:52:07 AM ===== Time taken for this one field ======  10.49
+10/04/2023 04:52:17 AM Succesfully calculated and saved BLOCK_window_list_F3x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral_difference/
+10/04/2023 04:52:17 AM ===== Time taken for this one field ======  9.39
+10/04/2023 04:52:25 AM Succesfully calculated and saved BLOCK_window_list_EPy_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral_difference/
+10/04/2023 04:52:25 AM ===== Time taken for this one field ======  8.55
+10/04/2023 04:52:33 AM Succesfully calculated and saved BLOCK_window_list_EPz_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral_difference/
+10/04/2023 04:52:33 AM ===== Time taken for this one field ======  7.81
+10/04/2023 04:52:44 AM Succesfully calculated and saved BLOCK_window_list_residual_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral_difference/
+10/04/2023 04:52:44 AM ===== Time taken for this one field ======  11.27
+10/04/2023 04:52:44 AM Succesfully calculated and saved BLOCK_window_list_A_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral/
+10/04/2023 04:52:44 AM ===== Time taken for this one field ======  0.05
+10/04/2023 04:52:44 AM Succesfully calculated and saved BLOCK_window_list_Fx_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral/
+10/04/2023 04:52:44 AM ===== Time taken for this one field ======  0.05
+10/04/2023 04:52:44 AM Succesfully calculated and saved BLOCK_window_list_F1x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral/
+10/04/2023 04:52:44 AM ===== Time taken for this one field ======  0.05
+10/04/2023 04:52:44 AM Succesfully calculated and saved BLOCK_window_list_F2x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral/
+10/04/2023 04:52:44 AM ===== Time taken for this one field ======  0.05
+10/04/2023 04:52:44 AM Succesfully calculated and saved BLOCK_window_list_F3x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral/
+10/04/2023 04:52:44 AM ===== Time taken for this one field ======  0.05
+10/04/2023 04:52:45 AM Succesfully calculated and saved BLOCK_window_list_EPy_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral/
+10/04/2023 04:52:45 AM ===== Time taken for this one field ======  0.05
+10/04/2023 04:52:45 AM Succesfully calculated and saved BLOCK_window_list_EPz_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral/
+10/04/2023 04:52:45 AM ===== Time taken for this one field ======  0.05
+10/04/2023 04:52:45 AM Succesfully calculated and saved BLOCK_window_list_residual_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_integral/
+10/04/2023 04:52:45 AM ===== Time taken for this one field ======  0.05
+10/04/2023 04:52:55 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_budget/
+10/04/2023 04:52:55 AM ===== Time taken for this one field ======  10.68
+10/04/2023 04:53:03 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_budget/
+10/04/2023 04:53:03 AM ===== Time taken for this one field ======  8.11
+10/04/2023 04:53:15 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_budget/
+10/04/2023 04:53:15 AM ===== Time taken for this one field ======  11.95
+10/04/2023 04:53:29 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_budget/
+10/04/2023 04:53:29 AM ===== Time taken for this one field ======  13.45
+10/04/2023 04:53:38 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_budget/
+10/04/2023 04:53:38 AM ===== Time taken for this one field ======  9.00
+10/04/2023 04:53:45 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_budget/
+10/04/2023 04:53:45 AM ===== Time taken for this one field ======  7.13
+10/04/2023 04:53:51 AM Succesfully calculated and saved BLOCK_window_list_dAdt_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_budget/
+10/04/2023 04:53:51 AM ===== Time taken for this one field ======  6.13
+10/04/2023 04:53:59 AM Succesfully calculated and saved BLOCK_window_list_A_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_fluxes/
+10/04/2023 04:53:59 AM ===== Time taken for this one field ======  8.45
+10/04/2023 04:54:21 AM Succesfully calculated and saved BLOCK_window_list_F_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_fluxes/
+10/04/2023 04:54:21 AM ===== Time taken for this one field ======  5.39
+10/04/2023 04:54:28 AM Succesfully calculated and saved BLOCK_window_list_F1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_fluxes/
+10/04/2023 04:54:28 AM ===== Time taken for this one field ======  7.55
+10/04/2023 04:54:38 AM Succesfully calculated and saved BLOCK_window_list_F2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_fluxes/
+10/04/2023 04:54:38 AM ===== Time taken for this one field ======  9.11
+10/04/2023 04:54:43 AM Succesfully calculated and saved BLOCK_window_list_F3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_fluxes/
+10/04/2023 04:54:43 AM ===== Time taken for this one field ======  5.59
+10/04/2023 04:54:56 AM Succesfully calculated and saved BLOCK_window_list_F_EPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_fluxes/
+10/04/2023 04:54:56 AM ===== Time taken for this one field ======  12.44
+10/04/2023 04:55:04 AM Succesfully calculated and saved BLOCK_window_list_F_EPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_fluxes/
+10/04/2023 04:55:04 AM ===== Time taken for this one field ======  8.13
+10/04/2023 04:55:16 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_variance_budget/
+10/04/2023 04:55:16 AM ===== Time taken for this one field ======  5.31
+10/04/2023 04:55:25 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_variance_budget/
+10/04/2023 04:55:25 AM ===== Time taken for this one field ======  4.83
+10/04/2023 04:55:34 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_variance_budget/
+10/04/2023 04:55:34 AM ===== Time taken for this one field ======  4.83
+10/04/2023 04:55:42 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_variance_budget/
+10/04/2023 04:55:42 AM ===== Time taken for this one field ======  4.77
+10/04/2023 04:55:55 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_variance_budget/
+10/04/2023 04:55:55 AM ===== Time taken for this one field ======  5.62
+10/04/2023 04:56:04 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_variance_budget/
+10/04/2023 04:56:04 AM ===== Time taken for this one field ======  4.87
+10/04/2023 04:56:11 AM Succesfully calculated and saved BLOCK_window_list_dAdtfull_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_variance_budget/
+10/04/2023 04:56:11 AM ===== Time taken for this one field ======  4.69
+10/04/2023 04:56:24 AM Succesfully calculated and saved BLOCK_window_list_residual_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days13//synoptic_WA_variance_budget/
+10/04/2023 04:56:24 AM ===== Time taken for this one field ======  5.06
+10/04/2023 04:56:25 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 04:56:25 AM ----------------Day = 14-----------------------
+10/04/2023 04:56:34 AM Succesfully calculated and saved BLOCK_window_list_A_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral_difference/
+10/04/2023 04:56:34 AM ===== Time taken for this one field ======  8.98
+10/04/2023 04:56:42 AM Succesfully calculated and saved BLOCK_window_list_Fx_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral_difference/
+10/04/2023 04:56:42 AM ===== Time taken for this one field ======  8.09
+10/04/2023 04:56:50 AM Succesfully calculated and saved BLOCK_window_list_F1x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral_difference/
+10/04/2023 04:56:50 AM ===== Time taken for this one field ======  8.71
+10/04/2023 04:56:59 AM Succesfully calculated and saved BLOCK_window_list_F2x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral_difference/
+10/04/2023 04:56:59 AM ===== Time taken for this one field ======  8.34
+10/04/2023 04:57:07 AM Succesfully calculated and saved BLOCK_window_list_F3x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral_difference/
+10/04/2023 04:57:07 AM ===== Time taken for this one field ======  8.00
+10/04/2023 04:57:16 AM Succesfully calculated and saved BLOCK_window_list_EPy_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral_difference/
+10/04/2023 04:57:16 AM ===== Time taken for this one field ======  8.98
+10/04/2023 04:57:27 AM Succesfully calculated and saved BLOCK_window_list_EPz_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral_difference/
+10/04/2023 04:57:27 AM ===== Time taken for this one field ======  11.01
+10/04/2023 04:57:34 AM Succesfully calculated and saved BLOCK_window_list_residual_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral_difference/
+10/04/2023 04:57:34 AM ===== Time taken for this one field ======  6.76
+10/04/2023 04:57:34 AM Succesfully calculated and saved BLOCK_window_list_A_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral/
+10/04/2023 04:57:34 AM ===== Time taken for this one field ======  0.06
+10/04/2023 04:57:34 AM Succesfully calculated and saved BLOCK_window_list_Fx_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral/
+10/04/2023 04:57:34 AM ===== Time taken for this one field ======  0.05
+10/04/2023 04:57:34 AM Succesfully calculated and saved BLOCK_window_list_F1x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral/
+10/04/2023 04:57:34 AM ===== Time taken for this one field ======  0.06
+10/04/2023 04:57:34 AM Succesfully calculated and saved BLOCK_window_list_F2x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral/
+10/04/2023 04:57:34 AM ===== Time taken for this one field ======  0.05
+10/04/2023 04:57:34 AM Succesfully calculated and saved BLOCK_window_list_F3x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral/
+10/04/2023 04:57:34 AM ===== Time taken for this one field ======  0.05
+10/04/2023 04:57:34 AM Succesfully calculated and saved BLOCK_window_list_EPy_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral/
+10/04/2023 04:57:34 AM ===== Time taken for this one field ======  0.05
+10/04/2023 04:57:34 AM Succesfully calculated and saved BLOCK_window_list_EPz_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral/
+10/04/2023 04:57:34 AM ===== Time taken for this one field ======  0.05
+10/04/2023 04:57:34 AM Succesfully calculated and saved BLOCK_window_list_residual_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_integral/
+10/04/2023 04:57:34 AM ===== Time taken for this one field ======  0.06
+10/04/2023 04:57:42 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_budget/
+10/04/2023 04:57:42 AM ===== Time taken for this one field ======  8.20
+10/04/2023 04:57:48 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_budget/
+10/04/2023 04:57:48 AM ===== Time taken for this one field ======  6.24
+10/04/2023 04:57:55 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_budget/
+10/04/2023 04:57:55 AM ===== Time taken for this one field ======  6.09
+10/04/2023 04:58:00 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_budget/
+10/04/2023 04:58:00 AM ===== Time taken for this one field ======  5.87
+10/04/2023 04:58:06 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_budget/
+10/04/2023 04:58:06 AM ===== Time taken for this one field ======  5.64
+10/04/2023 04:58:12 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_budget/
+10/04/2023 04:58:12 AM ===== Time taken for this one field ======  6.28
+10/04/2023 04:58:20 AM Succesfully calculated and saved BLOCK_window_list_dAdt_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_budget/
+10/04/2023 04:58:20 AM ===== Time taken for this one field ======  7.53
+10/04/2023 04:58:28 AM Succesfully calculated and saved BLOCK_window_list_A_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_fluxes/
+10/04/2023 04:58:28 AM ===== Time taken for this one field ======  8.66
+10/04/2023 04:58:43 AM Succesfully calculated and saved BLOCK_window_list_F_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_fluxes/
+10/04/2023 04:58:43 AM ===== Time taken for this one field ======  5.02
+10/04/2023 04:58:54 AM Succesfully calculated and saved BLOCK_window_list_F1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_fluxes/
+10/04/2023 04:58:54 AM ===== Time taken for this one field ======  10.56
+10/04/2023 04:59:01 AM Succesfully calculated and saved BLOCK_window_list_F2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_fluxes/
+10/04/2023 04:59:01 AM ===== Time taken for this one field ======  7.59
+10/04/2023 04:59:06 AM Succesfully calculated and saved BLOCK_window_list_F3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_fluxes/
+10/04/2023 04:59:06 AM ===== Time taken for this one field ======  4.94
+10/04/2023 04:59:13 AM Succesfully calculated and saved BLOCK_window_list_F_EPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_fluxes/
+10/04/2023 04:59:13 AM ===== Time taken for this one field ======  7.22
+10/04/2023 04:59:24 AM Succesfully calculated and saved BLOCK_window_list_F_EPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_fluxes/
+10/04/2023 04:59:24 AM ===== Time taken for this one field ======  10.26
+10/04/2023 04:59:34 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_variance_budget/
+10/04/2023 04:59:34 AM ===== Time taken for this one field ======  5.22
+10/04/2023 04:59:45 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_variance_budget/
+10/04/2023 04:59:45 AM ===== Time taken for this one field ======  4.93
+10/04/2023 04:59:54 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_variance_budget/
+10/04/2023 04:59:54 AM ===== Time taken for this one field ======  4.41
+10/04/2023 05:00:02 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_variance_budget/
+10/04/2023 05:00:02 AM ===== Time taken for this one field ======  4.82
+10/04/2023 05:00:13 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_variance_budget/
+10/04/2023 05:00:13 AM ===== Time taken for this one field ======  5.98
+10/04/2023 05:00:24 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_variance_budget/
+10/04/2023 05:00:24 AM ===== Time taken for this one field ======  4.80
+10/04/2023 05:00:31 AM Succesfully calculated and saved BLOCK_window_list_dAdtfull_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_variance_budget/
+10/04/2023 05:00:31 AM ===== Time taken for this one field ======  4.75
+10/04/2023 05:00:40 AM Succesfully calculated and saved BLOCK_window_list_residual_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days14//synoptic_WA_variance_budget/
+10/04/2023 05:00:40 AM ===== Time taken for this one field ======  4.77
+10/04/2023 05:00:40 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 05:00:40 AM -------Day 15 is not present-------
+10/04/2023 05:00:40 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 05:00:40 AM -------Day 16 is not present-------
+10/04/2023 05:00:40 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 05:00:40 AM ----------------Day = 17-----------------------
+10/04/2023 05:00:49 AM Succesfully calculated and saved BLOCK_window_list_A_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral_difference/
+10/04/2023 05:00:49 AM ===== Time taken for this one field ======  8.85
+10/04/2023 05:00:59 AM Succesfully calculated and saved BLOCK_window_list_Fx_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral_difference/
+10/04/2023 05:00:59 AM ===== Time taken for this one field ======  10.19
+10/04/2023 05:01:09 AM Succesfully calculated and saved BLOCK_window_list_F1x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral_difference/
+10/04/2023 05:01:09 AM ===== Time taken for this one field ======  10.15
+10/04/2023 05:01:20 AM Succesfully calculated and saved BLOCK_window_list_F2x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral_difference/
+10/04/2023 05:01:20 AM ===== Time taken for this one field ======  11.07
+10/04/2023 05:01:30 AM Succesfully calculated and saved BLOCK_window_list_F3x_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral_difference/
+10/04/2023 05:01:30 AM ===== Time taken for this one field ======  9.71
+10/04/2023 05:01:39 AM Succesfully calculated and saved BLOCK_window_list_EPy_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral_difference/
+10/04/2023 05:01:39 AM ===== Time taken for this one field ======  8.57
+10/04/2023 05:01:48 AM Succesfully calculated and saved BLOCK_window_list_EPz_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral_difference/
+10/04/2023 05:01:48 AM ===== Time taken for this one field ======  8.86
+10/04/2023 05:01:58 AM Succesfully calculated and saved BLOCK_window_list_residual_diff_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral_difference/
+10/04/2023 05:01:58 AM ===== Time taken for this one field ======  10.18
+10/04/2023 05:01:58 AM Succesfully calculated and saved BLOCK_window_list_A_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral/
+10/04/2023 05:01:58 AM ===== Time taken for this one field ======  0.06
+10/04/2023 05:01:58 AM Succesfully calculated and saved BLOCK_window_list_Fx_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral/
+10/04/2023 05:01:58 AM ===== Time taken for this one field ======  0.06
+10/04/2023 05:01:58 AM Succesfully calculated and saved BLOCK_window_list_F1x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral/
+10/04/2023 05:01:58 AM ===== Time taken for this one field ======  0.06
+10/04/2023 05:01:58 AM Succesfully calculated and saved BLOCK_window_list_F2x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral/
+10/04/2023 05:01:58 AM ===== Time taken for this one field ======  0.05
+10/04/2023 05:01:58 AM Succesfully calculated and saved BLOCK_window_list_F3x_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral/
+10/04/2023 05:01:58 AM ===== Time taken for this one field ======  0.06
+10/04/2023 05:01:58 AM Succesfully calculated and saved BLOCK_window_list_EPy_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral/
+10/04/2023 05:01:58 AM ===== Time taken for this one field ======  0.11
+10/04/2023 05:01:58 AM Succesfully calculated and saved BLOCK_window_list_EPz_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral/
+10/04/2023 05:01:58 AM ===== Time taken for this one field ======  0.08
+10/04/2023 05:01:58 AM Succesfully calculated and saved BLOCK_window_list_residual_integral_filtered data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_integral/
+10/04/2023 05:01:58 AM ===== Time taken for this one field ======  0.05
+10/04/2023 05:02:11 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_budget/
+10/04/2023 05:02:11 AM ===== Time taken for this one field ======  13.12
+10/04/2023 05:02:17 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_budget/
+10/04/2023 05:02:17 AM ===== Time taken for this one field ======  5.73
+10/04/2023 05:02:26 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_budget/
+10/04/2023 05:02:26 AM ===== Time taken for this one field ======  8.67
+10/04/2023 05:02:36 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_budget/
+10/04/2023 05:02:36 AM ===== Time taken for this one field ======  10.35
+10/04/2023 05:02:44 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_budget/
+10/04/2023 05:02:44 AM ===== Time taken for this one field ======  8.11
+10/04/2023 05:02:53 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_budget/
+10/04/2023 05:02:53 AM ===== Time taken for this one field ======  8.53
+10/04/2023 05:03:00 AM Succesfully calculated and saved BLOCK_window_list_dAdt_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_budget/
+10/04/2023 05:03:00 AM ===== Time taken for this one field ======  7.14
+10/04/2023 05:03:11 AM Succesfully calculated and saved BLOCK_window_list_A_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_fluxes/
+10/04/2023 05:03:11 AM ===== Time taken for this one field ======  11.03
+10/04/2023 05:03:32 AM Succesfully calculated and saved BLOCK_window_list_F_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_fluxes/
+10/04/2023 05:03:32 AM ===== Time taken for this one field ======  5.28
+10/04/2023 05:03:41 AM Succesfully calculated and saved BLOCK_window_list_F1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_fluxes/
+10/04/2023 05:03:41 AM ===== Time taken for this one field ======  8.87
+10/04/2023 05:03:49 AM Succesfully calculated and saved BLOCK_window_list_F2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_fluxes/
+10/04/2023 05:03:49 AM ===== Time taken for this one field ======  7.80
+10/04/2023 05:03:54 AM Succesfully calculated and saved BLOCK_window_list_F3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_fluxes/
+10/04/2023 05:03:54 AM ===== Time taken for this one field ======  5.02
+10/04/2023 05:04:02 AM Succesfully calculated and saved BLOCK_window_list_F_EPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_fluxes/
+10/04/2023 05:04:02 AM ===== Time taken for this one field ======  7.85
+10/04/2023 05:04:08 AM Succesfully calculated and saved BLOCK_window_list_F_EPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_fluxes/
+10/04/2023 05:04:08 AM ===== Time taken for this one field ======  5.97
+10/04/2023 05:04:19 AM Succesfully calculated and saved BLOCK_window_list_dxF_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_variance_budget/
+10/04/2023 05:04:19 AM ===== Time taken for this one field ======  5.00
+10/04/2023 05:04:30 AM Succesfully calculated and saved BLOCK_window_list_dxF1_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_variance_budget/
+10/04/2023 05:04:30 AM ===== Time taken for this one field ======  4.83
+10/04/2023 05:04:42 AM Succesfully calculated and saved BLOCK_window_list_dxF2_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_variance_budget/
+10/04/2023 05:04:42 AM ===== Time taken for this one field ======  5.95
+10/04/2023 05:04:51 AM Succesfully calculated and saved BLOCK_window_list_dxF3_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_variance_budget/
+10/04/2023 05:04:51 AM ===== Time taken for this one field ======  4.89
+10/04/2023 05:05:03 AM Succesfully calculated and saved BLOCK_window_list_dyEPy_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_variance_budget/
+10/04/2023 05:05:03 AM ===== Time taken for this one field ======  4.80
+10/04/2023 05:05:12 AM Succesfully calculated and saved BLOCK_window_list_dzEPz_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_variance_budget/
+10/04/2023 05:05:12 AM ===== Time taken for this one field ======  4.72
+10/04/2023 05:05:19 AM Succesfully calculated and saved BLOCK_window_list_dAdtfull_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_variance_budget/
+10/04/2023 05:05:19 AM ===== Time taken for this one field ======  4.69
+10/04/2023 05:05:35 AM Succesfully calculated and saved BLOCK_window_list_residual_full_synoptic data in /data/pragallva/2023_repeat_ERA5/post_processing/blocking_info_extra_variable/DJF_Ac=65/banded_data//lonm60-m0/lat45-60/block_evolution_29_days/days17//synoptic_WA_variance_budget/
+10/04/2023 05:05:35 AM ===== Time taken for this one field ======  6.34
+10/04/2023 05:05:35 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 05:05:35 AM -------Day 18 is not present-------
+10/04/2023 05:05:35 AM ------ Lon band --> lonm60-m0 and Lat band --> lat45-60 --- 
+10/04/2023 05:05:35 AM -------Day 19 is not present-------
+10/04/2023 05:05:42 AM Awesome! Finished successfully
+10/04/2023 05:05:42 AM <--- TOTAL Time taken --> 22036.09
